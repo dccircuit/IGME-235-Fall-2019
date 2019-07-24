@@ -4,7 +4,7 @@
 
 Available here, you will find:
 - The course [syllabus](syllabus.md)
-- An approximate plan for the course [schedule](schedule.md)
+- An approximate course [schedule](schedule.md) (subject to change)
 - A variety of other course materials that will be refined and added to as the semester progresses.
 
 **For due dates and deadlines, always check the Calendar and Assignments lists in your section's mycourses shell.**
