@@ -38,6 +38,7 @@ Attendance is mandatory and you are expected to be on time. Lectures will start 
 
 ## Grading
 Final course grades are determined using the following scale:
+
 | Class Average | Grade |
 | ------------- | ----- |
 | 90+%	| A |
