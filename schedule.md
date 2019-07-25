@@ -18,4 +18,4 @@
 | 12          | Nov 14-Nov 20 | Frameworks vs. Browser Standards, Grid Systems/Skeleton demo / PIXI intro  |         |
 | 13          | Nov 21-Dec 2  | More PIXI (ES 6 Classes) / Project 2 prototypes                     | Nov 27-29: Thanksgiving Break  |
 | 14          | Dec 3-Dec 9   | Project 3 prototypes / **FINAL EXAM**                               |         |
-| Finals Week | Dec 11-Dec 18 | Project 3 Presentations                                             | Don't gamble with your grade, either travel after the 18th or wait til Final Exam schedule is published |
+| Finals Week | Dec 11-Dec 18 | Project 3 Presentations                                             | Attendance Required! |
