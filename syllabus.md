@@ -24,7 +24,8 @@
 ## Course Materials and Communication
 There is a required textbook for this course.  It is *Learning Web Design, 5th Edition* by Jennifer Niederst Robbins.  In addition, there will be an assortment of online readings that you’ll receive over the course of the semester.  They will be uploaded to or linked to from our myCourses content area.
 
-You may be assigned (or suggested) tutorials to complete from the Lynda.com website, which you can access for free using your RIT login.
+You may be assigned (or suggested) tutorials to complete from [LinkedIn Learning](https://www.linkedin.com/learning/), which you can access for free using your RIT login.
+
 Most course materials and example code will be distributed via GitHub and myCourses, and you will also be learning how to use Git and GitHub to manage your own exercise and project files.
 
 myCourses will be used for announcements, links to course content, quizzes and exams, assignment submissions, and grading.
@@ -48,9 +49,10 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (45%)
--	Project 1 (15%) - Game Proposal Site
--	Project 2 (15%) - Web Service Application
--	Project 3 (15%) - Interactive Game or Experience
+-	Project 1 (15%) - [Game Proposal Site](projects/project-1.md)
+-	Project 2 (15%) - [Web Service Application](projects/project-2.md)
+-	Project 3 (15%) - [Interactive Game or Experience](projects/project-3.md)
+
 Note that while you should receive scores immediately for “Study Quizzes”, and within two weeks for Homework and Exams, the grading of Projects can sometimes take longer than two weeks.  If grading is taking longer than expected, I will announce progress in class and provide early estimated grades by email for those concerned about their score.  
 
 ### Exams (25%)
@@ -78,8 +80,8 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 The course policy on academic dishonesty is simple: If you get caught cheating or plagiarizing, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: http://www.rit.edu/~w-policy/sectionD/D8.html
 
 ## Important RIT Deadlines
--	Last day of add/drop is *******************.
--	Last day to withdraw with a grade of "W" is ******************.
+-	Last day of add/drop is Tuesday, September 3, 2019.
+-	Last day to withdraw with a grade of "W" is Friday, November 8, 2019.
 -	You have one semester after the class has ended to challenge your grade.
 
 ## Notices of Accommodation
@@ -88,12 +90,12 @@ If you have a "Notice of Accommodation", your professor should have received a c
 ## Discrimination and Harassment
 RIT is committed to providing a safe learning environment, free of harassment and discrimination as articulated in our university policies located on our governance website. RIT’s policies require faculty to share information about incidents of gender based discrimination and harassment with RIT’s Title IX coordinator or deputy coordinators, regardless whether the incidents are stated to them in person or shared by students as part of their coursework.
 If you have a concern related to gender-based discrimination and/or harassment and prefer to have a confidential discussion, assistance is available from one of RIT’s confidential resources on campus (listed below).
-1.	The Center for Women & Gender: Campus Center Room 1760 585-475-7464; CARES (available 24 hours/7 days a week) Call or text 585-295-3533.
-2.	RIT Student Health Center – August Health Center/1st floor 585-475-2255.
-3.	RIT Counseling Center - August Health Center /2nd floor – 2100 585-475-2261.
-4.	The Ombuds Office – Student Auxiliary Union/Room 1114 585-475-7200 or 585-475-2876.
-5.	The Center for Religious Life – Schmitt Interfaith Center/Rm1400 585-475-2137.
-6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson 585-475-6468 (v), 585-286-4070 (vp)
+1.	The Center for Women & Gender: Campus Center Room 1760, 585-475-7464; CARES (available 24 hours/7 days a week) Call or text 585-295-3533.
+2.	RIT Student Health Center – August Health Center / 1st floor 585-475-2255.
+3.	RIT Counseling Center - August Health Center / 2nd floor – 2100, 585-475-2261.
+4.	The Ombuds Office – Student Alumni Union / Room 1110, 585-475-7200, 585-475-7357, or 585-475-2876.
+5.	The Center for Religious Life – Schmitt Interfaith Center / Room 1400, 585-475-2137.
+6.	NTID Counseling & Academic Advising Services – 2nd Floor Lynden B. Johnson, 585-475-6468 (v), 585-286-4070 (vp)
 
 ## Finally...
 Any or all of the previous information is subject to change or modification during the semester. Any changes to the syllabus will be visible here on GitHub, and will be announced in class.
