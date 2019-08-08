@@ -22,12 +22,12 @@
 
 ## <a id="week1">Week 1: How the course works, how the web works
   
-- 1-1 Course intro 1
-- 1-2 Course intro 2
-- 1-3 Intro to projects/class style
-- 1-4 Web design intro
-- 1-5 How the web works
-- 1-6 Upload to banjo/.htaccess
+- 1-1 [Course intro 1](sessions/1-1.md)
+- 1-2 [Course intro 2](sessions/1-2.md)
+- 1-3 [Intro to projects/class style](sessions/1-3.md)
+- 1-4 [Web design intro](sessions/1-4.md)
+- 1-5 [How the web works](sessions/1-5.md)
+- 1-6 [Upload to banjo/.htaccess](sessions/1-6.md)
   
 ## <a id="week2">Week 2: Big concepts and HTML markup
   
