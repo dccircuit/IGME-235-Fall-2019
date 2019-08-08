@@ -1,4 +1,4 @@
-# IGME-235
+# IGME-235 Schedule
 
 ## Tentative Weekly Topics
 
