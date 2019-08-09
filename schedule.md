@@ -61,8 +61,8 @@
 - 5-1 [CSS Transition/Animations](sessions/5-1.md)
 - 5-2 [More CSS (especially CSS Reset)](sessions/5-2.md)
 - 5-3 [Modern web development notes](sessions/5-3.md)
-- 5-4 [Web design process/octolist.net](sessions/5-4.md)
-- 5-5 [Show Octolist sites/Project 1](sessions/5-5.md)
+- 5-4 [Web design process](sessions/5-4.md)
+- 5-5 [Show group sites/Assign project 1](sessions/5-5.md)
 - 5-6 [A few words about PHP](sessions/5-6.md)
 
 ## <a id="week6">Week 6: PHP: Hypertext Preprocessor
