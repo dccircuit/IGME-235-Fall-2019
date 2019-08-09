@@ -5,10 +5,10 @@
 | Week        | Dates         | General Topic                                                       | Notes |
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26-Aug 30 | [How the course works, how the web works](#week1)                   | Sep 2: Labor Day        |
-| 2           | Sep 3-Sep 9   | Big concepts and HTML markup                                        |         |
-| 3           | Sep 10-Sep 16 | Images and CSS formatting / box model                               |         |
-| 4           | Sep 17-Sep 23 | CSS Layout tools & page design principles                           |         |
-| 5           | Sep 24-Sep 30 | Extra bells & whistles, advanced tools, and putting it all together | Sep 25-26: Career Fair        |
+| 2           | Sep 3-Sep 9   | [Big concepts and HTML markup](#week2)                                |         |
+| 3           | Sep 10-Sep 16 | [Images and CSS formatting / box model](#week3)                       |         |
+| 4           | Sep 17-Sep 23 | [CSS Layout tools & page design principles](#week4)                   |         |
+| 5           | Sep 24-Sep 30 | [Extra bells & whistles, advanced tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
 | 6           | Oct 1-Oct 7   | PHP: Hypertext Preprocessor                                         |         |
 | 7           | Oct 8-Oct 16  | Frameworks, Libraries, Templates, JavaScript Intro                  | Oct 14-15: October Break        |
 | 8           | Oct 17-Oct 23 | JavaScript Document Object Model (DOM), **MIDTERM**                 |         |
@@ -31,39 +31,39 @@
   
 ## <a id="week2">Week 2: Big concepts and HTML markup
   
-- 2-1 Some big concepts
-- 2-2 HTML for structure
-- 2-3 Adding image/stylesheet
-- 2-4 Validating documents
-- 2-5 Marking up text
-- 2-6 Adding links  
+- 2-1 [Some big concepts](sessions/2-1.md)
+- 2-2 [HTML for structure](sessions/2-2.md)
+- 2-3 [Adding image/stylesheet](sessions/2-3.md)
+- 2-4 [Validating documents](sessions/2-4.md)
+- 2-5 [Marking up text](sessions/2-5.md)
+- 2-6 [Adding links](sessions/2-6.md)
   
 ## <a id="week3">Week 3: Images and CSS formatting / box model
 
-- 3-1 Adding images
-- 3-2 SVG images
-- 3-3 Intro to CSS
-- 3-4 Formatting text/backgrounds
-- 3-5 CSS box model
-- 3-6 Floating and positioning
+- 3-1 [Adding images](sessions/3-1.md)
+- 3-2 [SVG images](sessions/3-2.md)
+- 3-3 [Intro to CSS](sessions/3-3.md)
+- 3-4 [Formatting text/backgrounds](sessions/3-4.md)
+- 3-5 [CSS box model](sessions/3-5.md)
+- 3-6 [Floating and positioning](sessions/3-6.md)
 
 ## <a id="week4">Week 4: CSS Layout tools & page design principles
   
-- 4-1 Intro to Flexbox
-- 4-2 Intro to Grid
-- 4-3 Using Flexbox and Grid together
-- 4-4 Responsive web design
-- 4-5 More general design tips
-- 4-6 CRAP
+- 4-1 [Intro to Flexbox](sessions/4-1.md)
+- 4-2 [Intro to Grid](sessions/4-2.md)
+- 4-3 [Using Flexbox and Grid together](sessions/4-3.md)
+- 4-4 [Responsive web design](sessions/4-4.md)
+- 4-5 [More general design tips](sessions/4-5.md)
+- 4-6 [CRAP](sessions/4-6.md)
   
 ## <a id="week5">Week 5: Extra bells & whistles, advanced tools, and putting it all together
 
-- 5-1 CSS Transition/Animations
-- 5-2 More CSS (especially CSS Reset)
-- 5-3 Modern web development notes
-- 5-4 Web design process/octolist.net
-- 5-5 Show Octolist sites/Project 1
-- 5-6 A few words about PHP
+- 5-1 [CSS Transition/Animations](sessions/5-1.md)
+- 5-2 [More CSS (especially CSS Reset)](sessions/5-2.md)
+- 5-3 [Modern web development notes](sessions/5-3.md)
+- 5-4 [Web design process/octolist.net](sessions/5-4.md)
+- 5-5 [Show Octolist sites/Project 1](sessions/5-5.md)
+- 5-6 [A few words about PHP](sessions/5-6.md)
 
 ## <a id="week6">Week 6: PHP: Hypertext Preprocessor
 
