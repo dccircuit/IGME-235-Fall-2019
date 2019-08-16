@@ -9,17 +9,36 @@
 
 **Important: This course is for GDD students only.  It replaces IGME-230, Web Site Design and Implementation.  If you previously took (and passed) IGME-230, then you shouldn’t be in this course.**
 
-## Instructor and Class Details
--	Professor: Andrew Wheeland
--	Teaching Assistant: TBD
--	Office: GOL-2521
--	Email: anwigm@rit.edu
--	Office hours: Monday/Wednesday: 3pm to 5pm
--	Class meetings:
+## Instructor and Class Details (Section 01)
+- Professor: Dower Chin
+- Teaching Assistant: TBD
+- Office: See myCourses
+- Email: dxcigm@rit.edu
+- Office hours: After class / Email
+- Class meeting:
+    - Section 01 - T,Th 6:30PM - 7:45PM in GOL-2570 
+
+## Instructor and Class Details (Sections 02, 03, 05, and 06)
+- Professor: Andrew Wheeland
+- Teaching Assistant: TBD
+- Office: GOL-2521
+- Email: anwigm@rit.edu
+- Office hours: Monday/Wednesday: 3pm to 5pm
+- Class meetings:
     - Section 02 - T,Th 2:00PM - 3:15PM in GOL-2570
     - Section 03 – M,W,F 11:00AM - 11:50AM in MSS-2150
     - Section 05 - T,Th 11:00AM - 12:15PM in GOL-2435
     - Section 06 – M,W,F 2:00PM - 3:15PM in ORN-1375
+
+## Instructor and Class Details (Section 04)
+- Professor: David Schuh
+- Teaching Assistant: TBD
+- Office: See myCourses
+- Email: TBD
+- Office hours: TBD
+- Class meeting:
+    - Section 04 - M,W 5:00PM - 6:15PM in GOL-2570 
+
 
 ## Course Materials and Communication
 There is a required textbook for this course.  It is *Learning Web Design, 5th Edition* by Jennifer Niederst Robbins.  In addition, there will be an assortment of online readings that you’ll receive over the course of the semester.  They will be uploaded to or linked to from our myCourses content area.
