@@ -8,7 +8,7 @@ For project 3, you will be making a Web game or "experience." To get you started
 
 **Location:** The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **http://people.rit.edu/abc1234/230/project1/** (where 'abc1234' is your RIT id), as shown below:
 
-![Project 1 File Structure](/content/enforced2/757166-IGME235DEV/p1filestructure.png "Project 1 File Structure")  
+![Project 1 File Structure](_images/Project1Structure2019-235.png "Project 1 File Structure")  
 Your main page for the proposal site will be the index page for this directory. You must have css and media directories to store the associated files. **Remember:** Our server is case sensitive, so your files **must** use the case indicated in this assignment. If your files are not named and located as instructed, we can't find them, and you will get a 0.
 
 ### II-A. Content and Structure
