@@ -6,7 +6,7 @@ For project 3, you will be making a Web game or "experience." To get you started
 
 ## II. Requirements
 
-**Location:** The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **http://people.rit.edu/abc1234/230/project1/** (where 'abc1234' is your RIT id), as shown below:
+**Location:** The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be `http://people.rit.edu/abc1234/230/project1/` (where 'abc1234' is your RIT id), as shown below:
 
 ![Project 1 File Structure](_images/Project1Structure2019-235.png "Project 1 File Structure")  
 Your main page for the proposal site will be the index page for this directory. You must have css and media directories to store the associated files. **Remember:** Our server is case sensitive, so your files **must** use the case indicated in this assignment. If your files are not named and located as instructed, we can't find them, and you will get a 0.
@@ -17,16 +17,16 @@ Content is the foundation of the Web; all pages exist to present some content, n
 
 ### II-B. Required Pages
 
-*   The following pages (each in separate HTML files):
-    *   **index.html**: your "landing" page (the default file for your project1 directory):
-        *   This page must have a brief overview of your project, contain at least one image, and most importantly grab the user's attention.
-    *   **proposal.html**: what you plan to do, in more detail than the overview:
-        *   This page will be a game design document, specifically a game treatment that describes the development side of your game. This page is not a marketing document.
-        *   You should be hitting most or all of the things on this template (providing the content that would fill in for each roman numeral -- ignore the "Instructions" and "discussions" sections below the red lines): [http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html](http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html) <span style="font-size: 0.95rem; letter-spacing: 0.01rem;">- you can also read more about game treatments here:</span> [http://thelegendofjohnny.com/tutorials/game-treatment](http://thelegendofjohnny.com/tutorials/game-treatment)
-        *   This page will be marked up heavily with structural and semantic tags, some of which are listed below.
-        *   This page will contain at least two images.
-    *   **documentation.html**: A documentation page, which will document your overall process, resources used, and notes about this current assignment. Cite the sources of all information, tutorials, images and other media used. Also indicate how you met the project requirements, and any additional specifics you want me to see.
-    *   **project.html**: The game or app itself (the content will just be a placeholder for now, but the page needs to have the same look and navigation as the other pages)
+- The following pages (each in separate HTML files):
+  - **index.html**: your "landing" page (the default file for your project1 directory):
+      - This page must have a brief overview of your project, contain at least one image, and most importantly grab the user's attention.
+  - **proposal.html**: what you plan to do, in more detail than the overview:
+      - This page will be a game design document, specifically a game treatment that describes the development side of your game. This page is not a marketing document.
+      - You should be hitting most or all of the things on this template (providing the content that would fill in for each roman numeral -- ignore the "Instructions" and "discussions" sections below the red lines): [http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html](http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html) <span style="font-size: 0.95rem; letter-spacing: 0.01rem;">- you can also read more about game treatments here:</span> [http://thelegendofjohnny.com/tutorials/game-treatment](http://thelegendofjohnny.com/tutorials/game-treatment)
+      - This page will be marked up heavily with structural and semantic tags, some of which are listed below.
+      - This page will contain at least two images.
+  - **documentation.html**: A documentation page, which will document your overall process, resources used, and notes about this current assignment. Cite the sources of all information, tutorials, images and other media used. Also indicate how you met the project requirements, and any additional specifics you want me to see.
+  - **project.html**: The game or app itself (the content will just be a placeholder for now, but the page needs to have the same look and navigation as the other pages)
 
 ### II-C. HTML/CSS Markup
 
