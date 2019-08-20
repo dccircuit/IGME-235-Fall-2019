@@ -77,8 +77,8 @@ You will use **ONE** of these technology stacks:
 ## IV. Milestones
 - Proposal: Update your site from Project 1 to reflect what you are building for this project - see MyCourses dropbox for the due date
 - Checkpoint: create a working draft of the project - see MyCourses dropbox for the due date
-- Final project deliverable is due during our last week of class - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the mycouses dropbox.
-- On either April 23 (for early bonus points) or 24 (for last possible submission date), we will have a show and tell of your projects (see below)
+- Final project deliverable is due final exam week - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the mycouses dropbox.
+
 
 ## V. Documentation
 - Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
