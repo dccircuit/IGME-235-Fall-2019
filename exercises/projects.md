@@ -1,4 +1,4 @@
-# Exercise 1-3: Browse Past Projects 
+# Exercise: Browse Past Projects 
 
 On your own, begin to explore the sample projects below. Keep in mind that in many cases, Project 1 and Project 3 are rolled together into the same website.  If you find a project that is especially interesting or if you have questions about expectations for this semester, let us know.
 
