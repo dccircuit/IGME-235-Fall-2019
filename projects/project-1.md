@@ -69,8 +69,10 @@ The following pages (each in separate HTML files):
 
 ### III-A. Your Github Content and Site Prototype
 
-Your content must be written, chunked, and organized, and posted to your repo on GitHub as a markdown file named **235-project-1-content.md**. We will be checking this, and you need to **do your best work** as the content is weighted heavily on the rubric (see below)! Once this is done, begin building your HTML structure to fit the content (populating it with dummy content). Only when the structure is finalized should you be putting in the actual content!  
-Note: If you have never used Markdown before, it's extremely easy to work with. We will be doing a quick demo in class, and you might find this Markdown reference handy: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+Your content must be written, chunked, and organized, and posted to your repo on GitHub as a markdown file named **235-project-1-content.md**. We will be checking this, and you need to **do your best work** as the content is weighted heavily on the rubric (see below)! Once this is done, begin building your HTML structure to fit the content (populating it with dummy content). Only when the structure is finalized should you be putting in the actual content!
+
+Note: If you have never used Markdown before, it's extremely easy to work with. We will be doing a quick demo in class, and you might find this Markdown reference handy: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 See myCourses dropbox for due date.
 
 ### III-B. Critique Session
@@ -81,8 +83,10 @@ We will have a critique session in class, right after the prototype is due. In s
 
 After receiving feedback from your classmates, make fixes and improvements to your site, and post it to Banjo before the due date. Also, ZIP your entire project 1 folder and upload it to this Assignment's File Submission.
 
-Furthermore, Complete this Project 1 - Submission Survey.  +++ Link coming.
+Furthermore, Complete the Project 1 Assessment Survey.
 
 # IV. Grading
 
-Reminder - 'A' -level work means doing college-level work that goes beyond what we did in class. (You should be able to see this reflected in the attached Rubric). Meeting only the base requirements will most likely only earn you a B. In order to get an A, you need to impress! Also make sure that this is 100% your work - no templates or frameworks are allowed.
+The grading rubric for this project is visible in myCourses.  You should look it over carefully.  Find it by going to the "Assignments" section and clicking through to the "Project 1 Final Submission" dropbox.
+
+Reminder - 'A' -level work means doing college-level work that goes beyond what we did in class. (You should be able to see this reflected in the online Rubric). Meeting only the base requirements will most likely only earn you a B. In order to get an A, you need to impress! Also make sure that this is 100% your work - no templates or frameworks are allowed.
