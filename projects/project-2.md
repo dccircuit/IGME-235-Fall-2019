@@ -24,6 +24,9 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 
 ### A. Functional
 1. Your application will utilize a web service from this list:
+
+    +++ A list of approved APIs will be provided here.  The following list is full of ideas from previous semesters:
+    
     - https://github.com/toddmotto/public-apis
         - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely **NOT work** for this project
         - **DO NOT** use any API that requires *OAuth* authentication
@@ -74,7 +77,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
 - While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
-- You are allowed and encouraged to use a CSS framework for this project - see below!
+- ~~You are allowed and encouraged to use a CSS framework for this project - see below!~~
 
 ### C. HTML/CSS & Media
 - Valid HTML5 - https://validator.w3.org
@@ -82,11 +85,11 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 - Most CSS is in an external style sheet.
 - Use HTML5 semantic and structural elements where practical.
 - Images are properly optimized for Web delivery.
-- you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:
-    - http://getbootstrap.com
-    - http://materializecss.com
-    - https://purecss.io
-    - https://github.com/troxler/awesome-css-frameworks
+- ~~you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:~~
+    - ~~http://getbootstrap.com~~
+    - ~~http://materializecss.com~~
+    - ~~https://purecss.io~~
+    - ~~https://github.com/troxler/awesome-css-frameworks~~
 
 
 ### D. Code Conventions
@@ -111,6 +114,8 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
+
+***This will be modified to use a myCourses rubric for grading. Check back later***
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
@@ -149,7 +154,7 @@ Note:
 
 ## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to Banjo and link it from your 230 home page
+- Post the project to Banjo and link it from your 235 home page
 
 <hr><hr>
 
