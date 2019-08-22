@@ -1,4 +1,4 @@
-# Exercise 2-2: Initial Markup 
+# Exercise: Initial Markup 
 
 This is an In-Class Exercise. You are encouraged to work with a partner for this exercise, however you may do it alone.  You won't need to turn this assignment in, but you will have an individual homework assignment that is very similar that will be due soon (see the Assignments section in myCourses).
 
