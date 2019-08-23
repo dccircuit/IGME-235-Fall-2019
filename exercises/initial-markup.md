@@ -18,8 +18,8 @@ Please ask your professor, the teaching assistant or your neighbor for help if y
 
 ## If you get done early:
 - Continue to add other formatting/structural elements... 
-    - Avoid the temptation to try to use layout related HTML for now.  Focus on dividing the text appropriately into sections.
-or
+    - Avoid the temptation to try to use layout related HTML for now.  Focus on dividing the text appropriately into sections.  
+    *or* 
 - Browse http://mobygames.com or http://boardgamegeek.com for another game (digital or analog) that you'd like to use as a data source for your own homework assignment.  
     - You can go right ahead and begin the assignment now if you want, recording the main URL of the page and picking and choosing a few snippets.  Look for:  A short description paragraph, and list of info/features that you can pick a few from, a review that you can pull an amusing quote from (ideally one that you can link to), and a few representative images.  We'll cover adding images next.
     
