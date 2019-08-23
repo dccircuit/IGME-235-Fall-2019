@@ -1,6 +1,6 @@
 # Exercise: Initial Markup 
 
-This is an In-Class Exercise. You are encouraged to work with a partner for this exercise, however you may do it alone.  You won't need to turn this assignment in, but you will have an individual homework assignment that is very similar that will be due soon (see the Assignments section in myCourses).
+This is an In-Class Exercise. You are encouraged to work with a partner for this exercise, however you may do it alone.  Eventually, we will ask you to submit the work that you do on this HTML ICE Series.  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the Assignments section in myCourses).
 
 Below are some general steps that you should follow, but they are not exact.  Use your knowledge from the reading and today's review to achieve the goals below.
 
