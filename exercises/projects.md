@@ -5,9 +5,31 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ## Do the following:
 - Check out the links below and visit at least one project in each category.
 
-### Project 1s
+### Project 1s + Project 3s (formerly 4)
+
 ### Project 2s
-### Project 3s (note, this used to be Project 4 in the past)
+- https://people.rit.edu/brf9766/230/Project2/
+- https://people.rit.edu/yl5209/230/project2/
+- https://people.rit.edu/lrm4475/230/project2/
+- https://people.rit.edu/ajr6974/230/project2/
+- https://people.rit.edu/rls2819/230/project2/
+- https://people.rit.edu/kns1112/230/project2/
+- https://people.rit.edu/jcs1738/230/project2/
+- https://people.rit.edu/rcm4155/230/project2/
+- https://people.rit.edu/rkb2204/230/project2/
+- https://people.rit.edu/lxb7132/230/project2/
+- https://people.rit.edu/cxj5542/230/project2/
+- https://people.rit.edu/tar6248/230/project2/project2.html
+- https://people.rit.edu/bbd4327/230/project2/
+- https://people.rit.edu/sl4956/230/project2/
+- https://people.rit.edu/ss1594/230/project2/
+- https://people.rit.edu/ggc2903/230/project2/
+- https://people.rit.edu/iod6239/230/project2/
+- https://people.rit.edu/bnk5901/230/project2/
+- https://people.rit.edu/rxr3062/230/projects/p2/
+- https://people.rit.edu/zmw3607/230/project2/Project-2.html
+
+
 ### Portfolios
 - https://www.katiepustolski.com/
 - http://brianemling.com/
