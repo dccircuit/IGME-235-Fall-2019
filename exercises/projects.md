@@ -8,11 +8,9 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ### Project 1s + Project 3s (formerly 4)
 
 ### Project 2s
-- https://people.rit.edu/brf9766/230/Project2/
 - https://people.rit.edu/yl5209/230/project2/
-- https://people.rit.edu/lrm4475/230/project2/
 - https://people.rit.edu/ajr6974/230/project2/
-- https://people.rit.edu/rls2819/230/project2/
+- https://people.rit.edu/rls2819/230/project2/index.html
 - https://people.rit.edu/kns1112/230/project2/
 - https://people.rit.edu/jcs1738/230/project2/
 - https://people.rit.edu/rcm4155/230/project2/
