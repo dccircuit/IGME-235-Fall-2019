@@ -45,36 +45,35 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
 
 #### PixiJS Sprite Game (Project 3):
-    - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
-    - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
-    - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
-    - Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
-    - Space Voyager - https://people.rit.edu/djs5435/230/project1/project3/project.html
-    - Bullet Torrent '17 - https://people.rit.edu/~jds7523/230/project1/project.html
-    - Bananagans - https://people.rit.edu/axw1799/Bananagans/Bananagans/game.html
-    - Trampoline Trauma - https://people.rit.edu/axs6207/230/project3/project.html
-    - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
-    - Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
-    - Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
-    - Vector Victor - https://people.rit.edu/sxf5282/230//project1/project.html
-    - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
-    - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
-    - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
-    - SACO - https://people.rit.edu/cxa7619/230/project1/project.html
-    - Reversoid - https://people.rit.edu/~tps3871/230/project1/index.html
-    - FliP - https://people.rit.edu/~spb6892/230/project1/index.html
-    - Bubble Blitz - https://people.rit.edu/lcb2374/230/project1/project.html
-    - Phaser - https://people.rit.edu/cfc5762/230/project1/
-    - Paper Airplane Tilt - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!
-    - EndGon - https://people.rit.edu/~gad4037/230/project1/gamePage.html  - Check out the cool fighting move system!
-    - Isolation - https://people.rit.edu/swa4861/230/project1/
-    - Circle Defender - https://people.rit.edu/~sfd7250/230/project1/
-    - Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
-    - Working Title - https://people.rit.edu/~nxh9052/230/project1/project.html - Perhaps an obsessive attention to realistic car movement...
-    - Reekris vs. Beebo - https://people.rit.edu/dgl6789/230/project1/project.html
-    - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
-    - Audio Visualizer - https://people.rit.edu/~mzt5441/230/project1/
-
+- Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
+- taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
+- Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
+- Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
+- Space Voyager - https://people.rit.edu/djs5435/230/project1/project3/project.html
+- Bullet Torrent '17 - https://people.rit.edu/~jds7523/230/project1/project.html
+- Bananagans - https://people.rit.edu/axw1799/Bananagans/Bananagans/game.html
+- Trampoline Trauma - https://people.rit.edu/axs6207/230/project3/project.html
+- Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
+- Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
+- Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
+- Vector Victor - https://people.rit.edu/sxf5282/230//project1/project.html
+- Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
+- Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
+- BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
+- SACO - https://people.rit.edu/cxa7619/230/project1/project.html
+- Reversoid - https://people.rit.edu/~tps3871/230/project1/index.html
+- FliP - https://people.rit.edu/~spb6892/230/project1/index.html
+- Bubble Blitz - https://people.rit.edu/lcb2374/230/project1/project.html
+- Phaser - https://people.rit.edu/cfc5762/230/project1/
+- Paper Airplane Tilt - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!
+- EndGon - https://people.rit.edu/~gad4037/230/project1/gamePage.html  - Check out the cool fighting move system!
+- Isolation - https://people.rit.edu/swa4861/230/project1/
+- Circle Defender - https://people.rit.edu/~sfd7250/230/project1/
+- Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
+- Working Title - https://people.rit.edu/~nxh9052/230/project1/project.html - Perhaps an obsessive attention to realistic car movement...
+- Reekris vs. Beebo - https://people.rit.edu/dgl6789/230/project1/project.html
+- Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
+- Audio Visualizer - https://people.rit.edu/~mzt5441/230/project1/
 
 ### Portfolios
 - https://www.katiepustolski.com/
