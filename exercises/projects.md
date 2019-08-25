@@ -31,18 +31,19 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ### Project 1s + Project 3s (ignore project numbers in the URLs)
 
 #### DOM Game (Project 3):   
-    - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
-    - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
-    - Checkers - https://people.rit.edu/djs5435/230/project2/
-    - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
-    - Connect Four - https://people.rit.edu/paa9307/230/project2/
-    - ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
-    - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
-    - Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
-    - Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
-    - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
-    - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
-    - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
+- Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
+- Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
+- Checkers - https://people.rit.edu/djs5435/230/project2/
+- Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
+- Connect Four - https://people.rit.edu/paa9307/230/project2/
+- ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
+- Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
+- Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
+- Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
+- Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
+- Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
+- Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
+
 #### PixiJS Sprite Game (Project 3):
     - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
     - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
