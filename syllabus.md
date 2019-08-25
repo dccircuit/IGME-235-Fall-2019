@@ -11,8 +11,8 @@
 
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin
-- Teaching Assistant: 
-- Office: See myCourses
+- Teaching Assistant: Joseph Hong
+- Office: None
 - Email: dxcigm@rit.edu
 - Office hours: After class / Email
 - Class meeting:
