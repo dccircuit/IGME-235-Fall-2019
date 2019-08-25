@@ -11,7 +11,7 @@
 
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin
-- Teaching Assistant: TBD
+- Teaching Assistant: Nick Mercadante
 - Office: See myCourses
 - Email: dxcigm@rit.edu
 - Office hours: After class / Email
@@ -20,7 +20,7 @@
 
 ## Instructor and Class Details (Sections 02, 03, 05, and 06)
 - Professor: Andrew Wheeland
-- Teaching Assistant: TBD
+- Teaching Assistants: Matt Tiffin (Section 02), Leo Dold (Section 03), Nick Schnering (Section 05), and TBD (Section 06)
 - Office: GOL-2521
 - Email: anwigm@rit.edu
 - Office hours: Monday/Wednesday: 3pm to 5pm
@@ -32,10 +32,10 @@
 
 ## Instructor and Class Details (Section 04)
 - Professor: David Schuh
-- Teaching Assistant: TBD
-- Office: See myCourses
-- Email: TBD
-- Office hours: TBD
+- Teaching Assistant: Kyle Mulvey
+- Office: Open Labs
+- Email: dxsigm@rit.edu
+- Office hours: M,W,F 1:30pm - 4:30pm
 - Class meeting:
     - Section 04 - M,W 5:00PM - 6:15PM in GOL-2570 
 
