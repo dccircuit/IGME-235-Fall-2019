@@ -5,9 +5,32 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ## Do the following:
 - Check out the links below and visit at least one project in each category.
 
+
+
+
+### Project 2s
+- https://people.rit.edu/yl5209/230/project2/
+- https://people.rit.edu/ajr6974/230/project2/
+- https://people.rit.edu/rls2819/230/project2/index.html
+- https://people.rit.edu/kns1112/230/project2/
+- https://people.rit.edu/jcs1738/230/project2/
+- https://people.rit.edu/rcm4155/230/project2/
+- https://people.rit.edu/rkb2204/230/project2/
+- https://people.rit.edu/lxb7132/230/project2/
+- https://people.rit.edu/cxj5542/230/project2/
+- https://people.rit.edu/tar6248/230/project2/project2.html
+- https://people.rit.edu/bbd4327/230/project2/
+- https://people.rit.edu/sl4956/230/project2/
+- https://people.rit.edu/ss1594/230/project2/
+- https://people.rit.edu/ggc2903/230/project2/
+- https://people.rit.edu/iod6239/230/project2/
+- https://people.rit.edu/bnk5901/230/project2/
+- https://people.rit.edu/rxr3062/230/projects/p2/
+- https://people.rit.edu/zmw3607/230/project2/Project-2.html
+
 ### Project 1s + Project 3s (ignore project numbers in the URLs)
 
-- **DOM Game (Project 3)**:   
+#### DOM Game (Project 3):   
     - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
     - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
     - Checkers - https://people.rit.edu/djs5435/230/project2/
@@ -20,7 +43,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
     - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
     - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
     - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
-- **PixiJS Sprite Game (Project 3)**:<a id="project4examples"></a>
+#### PixiJS Sprite Game (Project 3):
     - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
     - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
     - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
@@ -50,27 +73,6 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
     - Reekris vs. Beebo - https://people.rit.edu/dgl6789/230/project1/project.html
     - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
     - Audio Visualizer - https://people.rit.edu/~mzt5441/230/project1/
-
-
-### Project 2s
-- https://people.rit.edu/yl5209/230/project2/
-- https://people.rit.edu/ajr6974/230/project2/
-- https://people.rit.edu/rls2819/230/project2/index.html
-- https://people.rit.edu/kns1112/230/project2/
-- https://people.rit.edu/jcs1738/230/project2/
-- https://people.rit.edu/rcm4155/230/project2/
-- https://people.rit.edu/rkb2204/230/project2/
-- https://people.rit.edu/lxb7132/230/project2/
-- https://people.rit.edu/cxj5542/230/project2/
-- https://people.rit.edu/tar6248/230/project2/project2.html
-- https://people.rit.edu/bbd4327/230/project2/
-- https://people.rit.edu/sl4956/230/project2/
-- https://people.rit.edu/ss1594/230/project2/
-- https://people.rit.edu/ggc2903/230/project2/
-- https://people.rit.edu/iod6239/230/project2/
-- https://people.rit.edu/bnk5901/230/project2/
-- https://people.rit.edu/rxr3062/230/projects/p2/
-- https://people.rit.edu/zmw3607/230/project2/Project-2.html
 
 
 ### Portfolios
