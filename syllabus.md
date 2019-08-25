@@ -11,7 +11,7 @@
 
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin
-- Teaching Assistant: Nick Mercadante
+- Teaching Assistant: 
 - Office: See myCourses
 - Email: dxcigm@rit.edu
 - Office hours: After class / Email
