@@ -35,11 +35,11 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 </body>
 </html>
 ```
-    or
-    - Validate your Homework so far.
+or
+- Validate your Homework so far.
 
 
 
 
 ### Navigation
-[Return to Session 2-3](../sessions/2-3.md)
+[Return to Session 2-4](../sessions/2-4.md)
