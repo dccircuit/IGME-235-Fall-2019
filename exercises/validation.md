@@ -20,16 +20,17 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 <body>
     <h1>Quotations</h1>
     <p>"All bad behavior is really a request for love, attention, or validation."
-&mdash; Kimberly Giles, <i>Choosing Clarity: The Path to Fearlessness<i></p>
+    &mdash; Kimberly Giles, <i>Choosing Clarity: The Path to Fearlessness<i></p>
 
     <quote>When we listen, we hear someone into existence.” 
-        <cite>&mdash; Laurie Buchanan, PhD</quote></cite>
+    <cite>&mdash; Laurie Buchanan, PhD</quote></cite>
 
-        <q>Just like children, emotions heal when they are heard & validated.</q> 
-        &mdash; Jill Bolte Taylor, My Stroke of Insight: A Brain Scientist's Personal Journey
-       <br>
-        <img src="mirror.gif">
-        <p>I'm good enough, I'm smart enough, and doggone it, people like me. &mdash; Stuart Smalley, <emSaturday Night Live</em></p>
+    <q>Just like children, emotions heal when they are heard & validated.</q> 
+    &mdash; Jill Bolte Taylor, My Stroke of Insight: A Brain Scientist's Personal Journey
+    <br>
+    <img src="mirror.gif">
+    <p>I'm good enough, I'm smart enough, and doggone it, people like me. &mdash; Stuart Smalley, 
+    <emSaturday Night Live</em></p>
 </body>
 </html>
 ```
