@@ -7,7 +7,8 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 2. Validate your Dig Dug page by URL, Upload, or Copy/Paste.
 3. Correct any errors.
 
-4. Validate this code:  (the image referred to is [here](mirror.gif), if you want to try to display it in a browser)
+## If you get done early:
+- Validate this code:  (the image referred to is [here](mirror.gif), if you want to try to display it in a browser)
  
 ```
 <!DOCTYPE html5>
@@ -34,13 +35,10 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 </body>
 </html>
 ```
-6. Preview again.
+    or
+    - Validate your Homework so far.
 
-## If you get done early:
-- Add an additional image.
-- Tweak the styles to use different colors, fonts, sizes.  
-  *or*
-- Work further on your own homework by selecting a couple of appropriate images to go along with the game you selected.
+
 
 
 ### Navigation
