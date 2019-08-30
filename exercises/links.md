@@ -6,7 +6,7 @@ Even though, you're moving on to your 235 Home Page assignment for Homework, let
 
 1. Create the following file structure and put your index.html page in the top folder.  Put the image into the appropriate subfolder and preview.
 
-make picture of 'game' folder with 'images' folder inside.
+    +++make picture of 'game' folder with 'images' folder inside.
 
 1. Fix the link to the image so that it works.
 
