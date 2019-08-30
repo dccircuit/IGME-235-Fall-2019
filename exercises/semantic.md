@@ -37,7 +37,7 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 
 ## If you get done early:
 
-    - You probably won't, but if you do, see what you can do to fine-tune your page (keeping in mind that you still don't have styles yet so it won't look like much).
+- You probably won't, but if you do, see what you can do to fine-tune your page (keeping in mind that you still don't have styles yet so it won't look like much).
 
 
 ### Navigation
