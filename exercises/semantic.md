@@ -2,7 +2,7 @@
 
 Same as previous exercises:  Continue with partner if possible.  Figure out how to meet provided goals.  Ask people for help if needed. 
 
-## Do the following:
+## Do as much of the following as possible:
 
 1. Continue with your previous (freshly valid!) in-class exercise.
 
@@ -11,6 +11,7 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
     - Add appropriate additional `<h2>`, `<h3>`
 
     - Turn the Publishing Information into an Unordered List
+    
     - Turn the Game Genre Information into a Description List (with name/value pairs).
 
     - Add a blockquote for the review excerpt.
@@ -23,19 +24,20 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
     - Add a `<header>` section.
     - Add a `<footer>` with information about where the content is from.
 
-1. Add inline elements for additional formatting:
+1. Add inline elements for additional formatting (your choice as to where they might be appropriate):
     - Italics (for emphasis), 
     - Bold (for strong meaning), 
     - Mark an acronym so that it's meaning appears on hover.  
     - Add a line break.
 
-1. Adding a `<div/span>` with `class/id`?
+1. Add a `<div>` with an `id` attribute.
 
-    - Add the ID so that we can link to it in the next exercise... 
+    - We won't apply any styling to it just yet, we're just making it so that we can link to it from the next exercise.
     - Add it to the "source" information at the very bottom of the page.
 
 ## If you get done early:
 
+    - You probably won't, but if you do, see what you can do to fine-tune your page (keeping in mind that you still don't have styles yet so it won't look like much).
 
 
 ### Navigation
