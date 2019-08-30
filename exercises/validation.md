@@ -4,11 +4,11 @@ Same as previous exercises:  Continue with partner if possible.  Figure out how 
 
 ## Do the following:
 1. Visit http://html5.validator.nu
-2. Validate your Dig Dug page by URL, Upload, or Copy/Paste.
+2. Validate your "Dig Dug" page by URL, Upload, or Copy/Paste.
 3. Correct any errors.
 
 ## If you get done early:
-- Validate this code:  (the image referred to is [here](mirror.gif), if you want to try to display it in a browser)
+- Validate this code:  (the image referred to is [here](mirror.gif), if you want to try to build/display it in a browser)
  
 ```
 <!DOCTYPE html5>
