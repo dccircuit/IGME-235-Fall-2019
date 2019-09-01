@@ -1,6 +1,6 @@
 # Exercise: Links 
 
-Even though, you're moving on to your 235 Home Page assignment for Homework, let's spend a little more time with the Dig Dug page.
+Even though, you're moving on to your "235 Home Page" assignment for Homework, let's spend a little more time with the "Dig Dug" page in class.
 
 ## Do the following:
 
