@@ -11,7 +11,7 @@ Please ask your professor, the teaching assistant or your neighbor for help if y
 2. Make a new HTML file within that folder called **index.html**
 3. Copy and paste the provided 'starter text' from here: [digdug.txt](digdug.txt) into your file.
 4. Add the necessary `!DOCTYPE` line, `<html>`, `<head>`, and `<body>` tags to your page.  
-    - Try typing them out this time, instead of using an editor short-cut. [emmet/VS Code specific tips](vscodehtml.md)
+    - Try typing them out this time, instead of using an editor short-cut. [See Emmet/VS Code specific tips](vscodehtml.md)
 5. Preview your page in a browser.
     - The text will all run together in a single paragraph unless you added other tags, which is fine.
 6. Add heading elements `<h1>`, paragraphs `<p>`, line breaks `<br>`, and block quotes `<blockquote>`.
