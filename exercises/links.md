@@ -4,20 +4,20 @@ Even though, you're moving on to your "235 Home Page" assignment for Homework, l
 
 ## Do the following:
 
-1. Create the following file structure and put your index.html page in the top folder.  Put the image into the appropriate subfolder and preview.
+1. Create the following file structure and put your **index.html** page in the top folder.  Put the image into the appropriate subfolder and preview.
 
 ![file structure](links-file-structure.png)
 
 1. Fix the link to the image so that it works.
 
-1. Create a simple page that contains only a large image of the game (call the file pic1.html).  (ok if huge for now, but include alt text).  
+1. Create a simple page that contains only a large image of the game (call the file **pic1.html**).  (ok if huge for now, but include alt text).  
 
-1. Put it in a subfolder (maybe called "big").
+1. Put it in a subfolder of **game** (maybe called "big").
 (make sure the large image is still in the images folder).
 
-1. Link from the index.html to the image page.
+1. Link from the **index.html** to the image page.
 
-1. Link from the image page to the index.html.
+1. Link from the image page to the **index.html**.
 
 1. Add an additional link to the source info only on the index page by adding a fragment name to the URL of the index page. 
 
