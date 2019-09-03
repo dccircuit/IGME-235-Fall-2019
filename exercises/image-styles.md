@@ -16,7 +16,7 @@ Continue working with your partner if you had one or go it alone.  Remember that
         border-bottom: 1px solid blue;
         }
     blockquote { 
-        background-color: light-gray;
+        background-color: lightgray;
         padding: 1rem;
         }
 </style>
