@@ -10,8 +10,8 @@
 | 4           | Sep 17-Sep 23 | [CSS Layout tools & page design principles](#week4)                 |         |
 | 5           | Sep 24-Sep 30 | [Extra bells & whistles, advanced tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
 | 6           | Oct 1-Oct 7   | [PHP: Hypertext Preprocessor](#week6)                                 |         |
-| 7           | Oct 8-Oct 16  | [Frameworks, Libraries, Templates, JavaScript Intro](#week7)          | Oct 14-15: October Break        |
-| 8           | Oct 17-Oct 23 | [JavaScript Document Object Model (DOM), **MIDTERM**](#week8)         |         |
+| 7           | Oct 8-Oct 16  | [Frameworks, Libraries, Templates, **MIDTERM**](#week7)               | Oct 14-15: October Break |
+| 8           | Oct 17-Oct 23 | [JavaScript Intro, Document Object Model (DOM)](#week8)               |         |
 | 9           | Oct 24-Oct 30 | [JavaScript Functions, Events](#week9)                                |         |
 | 10          | Oct 31-Nov 6  | [JavaScript Object Literals, Arrays](#week10)                         |         |
 | 11          | Nov 7-Nov 13  | [JavaScript Webstorage, Web Services / Portfolios](#week11)           |         |
@@ -74,23 +74,24 @@
 - 6-5 PHP $_SERVER "super global"
 - 6-6 PHP Mail & Forms
 
-## <a id="week7">Week 7: Frameworks, Libraries, Templates, JavaScript Intro
+## <a id="week7">Week 7: Frameworks, Libraries, Templates(?), **MIDTERM**
 
-- 7-1 Frameworks
-- 7-2 Libraries/Plugins
-- 7-3 Templates/Single Page Sites
-- 7-4 JS Intro what's a web app/api
-- 7-5 JS Hello World/console
-- 7-6 JS Data Types let/var truthy/falsy "use strict"
+- 7-1 TBD/Frameworks
+- 7-2 TBD/Libraries/Plugins
+- 7-3 Midterm review
+- 7-4 Midterm review/questions
+- 7-5 Midterm
+- 7-6 Midterm- 
 
-## <a id="week8">Week 8: JavaScript Document Object Model (DOM), **MIDTERM**
+## <a id="week8">Week 8: JavaScript Intro, Document Object Model (DOM)
 
-- 8-1 JS DOM
-- 8-2 JS More DOM methods
-- 8-3 Midterm review
-- 8-4 Midterm review/questions
-- 8-5 Midterm
-- 8-6 Midterm
+- 8-1 TBD/Templates/Single Page Sites
+- 8-2 JS Intro what's a web app/api
+- 8-3 JS Hello World/console
+- 8-4 JS Data Types let/var truthy/falsy "use strict"
+- 8-5 JS DOM
+- 8-6 JS More DOM methods
+
 
 ## <a id="week9">Week 9: JavaScript Functions, Events 
 
