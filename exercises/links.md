@@ -6,7 +6,7 @@ Even though, you're moving on to your "235 Home Page" assignment for Homework, l
 
 1. Create the following file structure and put your **index.html** page in the top folder.  Put the image into the appropriate subfolder and preview.
 
-![file structure](links-file-structure.png)
+    ![file structure](links-file-structure.png)
 
 1. Fix the link to the image so that it works.
 
@@ -19,11 +19,11 @@ Even though, you're moving on to your "235 Home Page" assignment for Homework, l
 
 1. Link from the image page to the **index.html**.
 
-1. Add an additional link to the source info only on the index page by adding a fragment name to the URL of the index page. 
+1. Add an additional link (from the image page) to the source info area on the index page by adding a fragment name (you made one at the end of last exercise) to the URL of the index page. 
 
 1. Make an external link to the page on MobyGames
 
-1. Change that link so that it creates a new window when clicked.
+1. Change that link so that it creates a new window when clicked.  (probably bad practice, but we still want you to see how it's done).
 
 ## If you get done early:
 
