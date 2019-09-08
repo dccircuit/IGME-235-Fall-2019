@@ -28,10 +28,14 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 
 ## If you get done early:
 
-- test
+- Validate.
+- Look for at a site like http://thenounproject.com and see if you can find a cool icon to use for your own 235 Home Page.  Maybe something that represents you.  Then, download it as an SVG.
+    - Other sites:  http://flaticon.com, http://freepik.com, https://www.iconfinder.com/, etc.
+    
+
 
 
 ### Navigation
-[Return to Session 3-1](../sessions/3-1.md)
+[Return to Session 3-2](../sessions/3-2.md)
 
 
