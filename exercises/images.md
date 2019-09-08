@@ -7,7 +7,7 @@ We've got some images for you to add to your Dig Dug page.
 1. Here's an image that we want you to add to your page. ([fygar_inflate.jpg](fygar_inflate.jpg)) However, it's too large to fit properly on the page, and we'd like it to be a small decorative image rather than a large piece of main content.
     - Use an image editing tool to crop some of the extra black border off.
     - Reduce the dimensions of the image so that it can be added to the page without the need to change the height and width through code.
-    - Consider whether or not a GIF or 8-bit PNG would reduce the file size further.  Test your theory.
+    - Consider whether or not a GIF or 8-bit PNG would reduce the file size further.  Test your theory.  (Note that the "Export As" command in Photoshop makes it pretty simple to compare file sizes between formats)
     
 1. Add the edited image to your page (save it into your images folder and link to it with a relative path).
 
