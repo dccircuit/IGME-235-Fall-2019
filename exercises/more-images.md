@@ -9,19 +9,19 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 1. View it in your browser quickly to see what it looks like.  Notice how it resizes smoothly at all sizes.
 
 1. Open the file in VS Code.  Turn Word-wrap on.  (It's in the View menu).  Notice the style element near the top with several style rules, all of which have a color in hexadecimal code.  Go ahead and edit this file to figure out which one changes the outer color in the logo.  Change it to something else (maybe "teal"). 
-  - Note that hexadecimal colors start with the # symbol.  If you want to use a named color, remove the #.
+   - Note that hexadecimal colors start with the # symbol.  If you want to use a named color, remove the #.
   
 1. Save your edited file.
 
 1. Add it to the page.  
-  - You could choose to copy and paste the whole <svg> element from the file and paste it where you want it in the HTML file.
-  - You could add it through a simple <img> element.
-  - You could add it as an <object> with an <img> fallback inside. -- If you would like to replace the old logo at the top of the page with this new SVG version for browsers that can support it, then this is the best solution.
+   - You could choose to copy and paste the whole `<svg>` element from the file and paste it where you want it in the HTML file.
+   - You could add it through a simple `<img>` element.
+   - You could add it as an `<object>` with an `<img>` fallback inside. If you would like to replace the old logo at the top of the page with this new SVG version for browsers that can support it, then this is the best solution.
   
 1. Time to make a favicon.  Grab this PNG image: [taizo_hori.png](taizo_hori.png).  Looks perfect to become a favicon, right?
 
 1. Use the website: http://favicomatic.com to create the necessary files and code.
-  - This failed for me in recent testing, so if you can't get it to work, yourself, you can download this simple result zip file from a previous attempt: [favicomatic.zip](favicomatic.zip) 
+    - This failed for me in recent testing, so if you can't get it to work, yourself, you can download this simple result zip file from a previous attempt: [favicomatic.zip](favicomatic.zip) 
 
 1. Add the generated link tags to the head of your page so that the favicon loads.
 
