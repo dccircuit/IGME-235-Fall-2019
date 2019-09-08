@@ -23,6 +23,6 @@ We've got some images for you to add to your Dig Dug page.
 
 
 ### Navigation
-[Return to Session 2-6](../sessions/2-6.md)
+[Return to Session 3-1](../sessions/3-1.md)
 
 
