@@ -1,6 +1,6 @@
 # Exercise: Adding Images 
 
-We've got some images for you to add to your Dig Dug page.  
+We've got some bitmap images for you to add to your Dig Dug page.  
 
 ## Do the following:
 
