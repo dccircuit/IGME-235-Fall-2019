@@ -7,6 +7,7 @@ We're really moving on to the Presentation layer and learning how to properly ad
 1. Get your Dig Dug page loaded up.
 
 1. We briefly added an inline rule to your body tag during the previous exercise.  Remove that inline rule and add it to your embedded style sheet instead.
+    - Hint: Use an element selector for the `<body>` tag.
 
 1. Confirm that it works.
 
