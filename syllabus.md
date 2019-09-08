@@ -20,7 +20,7 @@
 
 ## Instructor and Class Details (Sections 02, 03, 05, and 06)
 - Professor: Andrew Wheeland
-- Teaching Assistants: Matt Tiffin (Section 02), Leo Dold (Section 03), Nick Schnering (Section 05), and TBD (Section 06)
+- Teaching Assistants: Matt Tiffin (Section 02), Leo Dold (Section 03), Nick Schnering (Section 05), and Nick Mercadante (Section 06)
 - Office: GOL-2521
 - Email: anwigm@rit.edu
 - Office hours: Monday/Wednesday: 3pm to 5pm
