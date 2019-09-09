@@ -29,6 +29,6 @@ We're really moving on to the Presentation layer and learning how to properly ad
 
 
 ### Navigation
-[Return to Session 3-3](../sessions/3-2.md)
+[Return to Session 3-3](../sessions/3-3.md)
 
 
