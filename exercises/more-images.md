@@ -22,6 +22,7 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 
 1. Use the website: http://favicomatic.com to create the necessary files and code.
     - This failed for me in recent testing, so if you can't get it to work, yourself, you can download this simple result zip file from a previous attempt: [favicomatic.zip](favicomatic.zip) 
+    - If the above site fails to work, you can use this site as an alternative: https://www.favicon-generator.org
 
 1. Add the generated link tags to the head of your page so that the favicon loads.
 
