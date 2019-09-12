@@ -17,6 +17,7 @@ Let's work with the box model.  Also, prepare to say good-bye to Dig Dug.  This 
 1. Do you have some other elements (like a `<header>` or `<footer>` maybe) that could also use the same treatment?  Just add the elements into the selector of your previous rule.  Maybe the selector will look like: **main, header, footer {margin: 0 auto; etc}**
 
 1. Try to gather anything that's dangling outside of these main elements and move it inside because we're going to apply a background behind the main box.  Change the background color of your `<body>` tag one more time to something dark from your color palette... or maybe just some other dark color.  How does it look?
+    - Apply your old background color to your primary content blocks.
 
 1. Add padding and margins as necessary to make it so that backgrounds and borders added to things like your footer or your publishing information list are not too close to the content within the container, etc.
 
