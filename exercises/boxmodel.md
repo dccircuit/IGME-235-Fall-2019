@@ -25,4 +25,4 @@ Let's work with the box model.  Also, prepare to say good-bye to Dig Dug.  This 
 - Basically clean things up as much as you can... In our next session we'll be asking you to zip up (and post to banjo) all that you (and your partner if you had one) got done and submit it for your HTML ICE Work "Assignment".  Keep in mind that you don't have to have it all done... We just want to see that you got some of the things we asked for in each exercise done.
 
 ### Navigation
-[Return to Session 3-6](../sessions/3-6.md) or straight to the [Next Exercise](boxmodel.md)
+[Return to Session 3-6](../sessions/3-6.md) 
