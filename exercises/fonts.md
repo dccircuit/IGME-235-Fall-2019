@@ -22,6 +22,6 @@ Let's specify some fonts.
 - Try proving that you can make a functional **decendant** selector where a paragraph (or other element) that's located in your `<footer>` (for example) has a different style applied to it than a paragraph that appears elsewhere on your page.
 
 ### Navigation
-[Return to Session 3-3](../sessions/3-3.md) or straight to the [Next Exercise](colors.md)
+[Return to Session 3-4](../sessions/3-4.md) or straight to the [Next Exercise](colors.md)
 
 
