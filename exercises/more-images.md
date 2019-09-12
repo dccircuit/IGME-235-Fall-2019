@@ -37,6 +37,6 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 
 
 ### Navigation
-[Return to Session 3-2](../sessions/3-2.md)
+[Return to Session 3-2](../sessions/3-2.md) or straight to the [Next Exercise](fonts.md)
 
 
