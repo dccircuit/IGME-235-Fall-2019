@@ -43,18 +43,18 @@
 - 3-1 [Adding images](sessions/3-1.md)
 - 3-2 [SVG images](sessions/3-2.md)
 - 3-3 [Intro to CSS](sessions/3-3.md)
-- 3-4 [Formatting text/backgrounds](sessions/3-4.md)
-- 3-5 [CSS box model](sessions/3-5.md)
-- 3-6 [Floating and positioning](sessions/3-6.md)
+- 3-4 [Formatting text](sessions/3-4.md)
+- 3-5 [Colors](sessions/3-5.md)
+- 3-6 [CSS box model](sessions/3-6.md)
 
 ## <a id="week4">Week 4: CSS Layout tools & page design principles
   
-- 4-1 [Intro to Flexbox](sessions/4-1.md)
-- 4-2 [Intro to Grid](sessions/4-2.md)
-- 4-3 [Using Flexbox and Grid together](sessions/4-3.md)
-- 4-4 [Responsive web design](sessions/4-4.md)
-- 4-5 [More general design tips](sessions/4-5.md)
-- 4-6 [CRAP](sessions/4-6.md)
+- 4-1 [Floating and positioning](sessions/4-1.md)
+- 4-2 [Intro to Flexbox](sessions/4-2.md)
+- 4-3 [Intro to Grid](sessions/4-3.md)
+- 4-4 [Using Flexbox and Grid together](sessions/4-4.md)
+- 4-5 [Responsive web design/mediaqueries/breakpoints](sessions/4-5.md)
+- 4-6 [More Design Tips/responsive images](sessions/4-6.md)
   
 ## <a id="week5">Week 5: Extra bells & whistles, advanced tools, and putting it all together
 
