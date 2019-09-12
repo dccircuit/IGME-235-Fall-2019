@@ -1,6 +1,6 @@
-# Exercise: Fonts
+# Exercise: Formatting Text
 
-Let's specify some fonts. 
+Let's modify our text a bit. 
 
 ## Do the following:
 
