@@ -33,7 +33,7 @@
 ## Instructor and Class Details (Section 04)
 - Professor: David Schuh
 - Teaching Assistant: Kyle Mulvey
-- Office: Open Labs
+- Office: 70-3450
 - Email: dxsigm@rit.edu
 - Office hours: M,W,F 1:30pm - 4:30pm
 - Class meeting:
