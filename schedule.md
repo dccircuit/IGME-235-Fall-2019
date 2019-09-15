@@ -52,7 +52,7 @@
 - 4-1 [Floating and positioning](sessions/4-1.md)
 - 4-2 [Intro to Flexbox](sessions/4-2.md)
 - 4-3 [More Flexbox and Transition to Grid](sessions/4-3.md)
-- 4-4 [Intro to Grid](sessions/4-4.md)
+- 4-4 [CSS Grid](sessions/4-4.md)
 - 4-5 [Responsive web design/mediaqueries/breakpoints](sessions/4-5.md)
 - 4-6 [More Design Tips/responsive images](sessions/4-6.md)
   
