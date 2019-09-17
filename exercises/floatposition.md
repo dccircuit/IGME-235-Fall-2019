@@ -5,7 +5,8 @@ It's time to usher in a new era.  What better to use to learn about floating box
 Before you get started, the instructor will give you a preview of the kind of thing we're expecting you to build on the projector.  You don't have to replicate it exactly, but it should give you an idea of what we're looking for.
 
 ## Do the following:
-RULE ONE: Except for linking to a stylesheet, don't edit the HTML file.
+**RULE ONE: Except for linking to a stylesheet, don't edit the HTML file.**
+0. Download the starter files from the myCourses Content area (Session 4-1)
 
 1. Add a thin red line underneath all of the sub-headings.
     - use border-bottom property.
