@@ -2,6 +2,8 @@
 
 In this exercise, you will again use the starting tetris.html file that you used for the last session.  However, you will rename your old css file to something else and instead, start a new css file at the same name as the old one.
 
+## Do the following:
+
 **IF YOU'RE SHORT ON TIME, JUMP STRAIGHT TO STEP 4.**
 
 1. We want this version of the page to respond more to the overall width of the viewport and present a nice experience at multiple widths.  Start by setting a max-width for the figure.  Set the max-width property to never be wider than 650px.
@@ -18,7 +20,7 @@ In this exercise, you will again use the starting tetris.html file that you used
     - use a grouped selector
     
 4. Okay, everything looks pretty good, but we really have to 
-get this gallery of tetrominos under control.  First, what is the parent container for all of the <div>s that contain the tetrominos?
+get this gallery of tetrominos under control.  First, what is the parent container for all of the `<div>`s that contain the tetrominos?
     - select that element (use it's id if you want) and put a declaration on it to make it a flexbox container.
     
 5. They should have all lined up horizontally.  Which we want, but not going wider than the screen.  Instead we want the flexbox items to wrap to new lines.
@@ -43,8 +45,13 @@ get this gallery of tetrominos under control.  First, what is the parent contain
     - Let's center everything within the tetromino divs using text-align.
     - The alias lists look terrible centered.  Let's make them look like we designed it by left-aligning the text in the alias divs and giving them a margin of about 1em.
     
-    
-If you have time:  Notice that two of the tetrominos have an extra class applied.  This would allow you to set the width of the image for the I-Block to be an additional 20% wider and the width of the O-Block to be another 20% narrower than the other blocks.  That will keep the images in their proper relative size.
+## If you get done early:
+- Notice that two of the tetrominos have an extra class applied.  This would allow you to set the width of the image for the I-Block to be an additional 20% wider and the width of the O-Block to be another 20% narrower than the other blocks.  That will keep the images in their proper relative size.
+
+
+### Navigation
+[Return to Session 4-2](../sessions/4-2.md)     
+   
     
     
     
