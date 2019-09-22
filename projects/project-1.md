@@ -31,7 +31,7 @@ The following pages (each in separate HTML files):
 
 ### II-C. HTML/CSS Markup
 
-- Structural tags like `<header>, <section>, <article>, <nav>`, and `<footer>` should be used appropriately.
+- Semantic structural tags like `<header>, <section>, <article>, <nav>`, and `<footer>` should be used appropriately.
 - Try to use a consistent structure on all of your 4 pages by repeating many of your design elements - for example: the `<header>, <footer>` and `<nav>` elements should be in the same places on each page and have the same colors, fonts and spacing.
 - Be sure to have descriptive `<title>` elements for each page.
 - CSS selectors and rules will be used for formatting and positioning:
@@ -39,7 +39,7 @@ The following pages (each in separate HTML files):
 - There will be at least 5 style declarations (rules) in your external style sheet.
     - At least one of these style declarations will utilize a _class selector_.
     - At least one of these style declarations will utilize an _id selector_.
-    - Utilize custom link styles on all your pages by utilizing the `a:link, a:visited, a:hover,` and `a:active` selectors. (These 4 selectors do not count towards the 5 style rule requirement above)
+    - Utilize custom link styles on all your pages by utilizing the `a:link, a:visited, a:focus, a:hover,` and `a:active` selectors. (These 5 pseudo-class selectors do not count towards the 5 style rule requirement above)
 - Avoid using *inline* styles.
 
 ### II-D. Design
