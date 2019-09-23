@@ -14,7 +14,7 @@ The domain your boss has purchased will be shared when you are in your teams.
 ### Part 1: Define Purpose
 1.	Why does this site exist?
     - (You'll need to brainstorm a purpose right away for this exercise)
-    - ***Off limits:  No sites by, for, or about octopods.***
+    - ***Off limits: One topic is off limits, be sure you're aware of this.***
 1.	What do you hope to achieve with it?
 1.	What's the Goal?
 	- Write it out.  We'll ask you for it.
