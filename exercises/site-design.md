@@ -37,9 +37,9 @@ The domain your boss has purchased will be shared when you are in your teams.
 1. Examine other sites.
 	- what additional ideas did this bring to mind?
 1. Ask potential users (if you can find some).
-    - ***If your class spans across two days, come back with your list of ideas. ***
+    - ***If your class spans across two days, come back with your list of ideas.***
 
-## On the second day, you'll only have a very short amount of time (10 minutes) to do the following:
+## On the second day (or second half of session), you'll only have a very short amount of time (10 minutes) to do the following:
  
 ### Part 4: Organize Ideas
 1. Take ideas and consider them
