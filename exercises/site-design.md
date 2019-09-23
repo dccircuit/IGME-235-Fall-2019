@@ -57,10 +57,10 @@ The domain your boss has purchased will be shared when you are in your teams.
 1. Draw a conceptual diagram.
  
 ### Part 6: Sketch Pages
-	- Use Blank Paper and Design Tools provided by your professor!
+- Use Blank Paper and Design Tools provided by your professor!
 
 ### Part 7: Present Design to the Class
-    - Professor will provide details of expectations.
+- Professor will provide details of expectations.
 
 ### Navigation
 [Return to Session 5-3](../sessions/5-3.md)
