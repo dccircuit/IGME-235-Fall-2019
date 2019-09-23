@@ -32,13 +32,13 @@ The domain your boss has purchased will be shared when you are in your teams.
 1. Brainstorm further about what features/sections/content your site could have
 	- List numerous ideas without being critical
 	- An off-the-wall idea may help bring an excellent 'reasonable' idea to mind
-1.  List features you came up with
+1. List features you came up with
 	- Make a list.
-1. 	Examine other sites.
+1. Examine other sites.
 	- what additional ideas did this bring to mind?
-1.	Ask potential users (if you can find some).
+1. Ask potential users (if you can find some).
 
-***If your class spans across two days, come back with your list of ideas. ***
+    - ***If your class spans across two days, come back with your list of ideas. ***
 
 ## On the second day, you'll only have a very short amount of time (10 minutes) to do the following:
  
