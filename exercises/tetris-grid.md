@@ -220,99 +220,99 @@ You might want to do this part with Firefox so that you can use its awesome grid
     Notice how they all pile up, one to each grid cell and over-lap each other?  That's because the "overflow" of all of these divs is set to visible.  
 
 1. Test this rule real quick:
-```
-div.tet {
-	overflow: hidden
-}
-```
-Not as fun, right?  Why does one block look empty?
+    ```
+    div.tet {
+        overflow: hidden
+    }
+    ```
+    Not as fun, right?  Why does one block look empty?
 
 1. Set that back... either delete the rule or set the overflow: visible;
 
 1. Let's move our tetrominos around.  Let's take the "O" block and put it in the top left corner.  Try this code:
-```
-#o {
-    grid-column: 1/3;
-    grid-row: 1/span 2;
-}
-```
-These are two different ways of specifying to make something go across two columns or rows... The first one specifies a starting line and and ending line (recall that grid tracks are not numbered.  The lines BETWEEN them are).  The second specifies a starting line and a number of rows to span across.
+    ```
+    #o {
+        grid-column: 1/3;
+        grid-row: 1/span 2;
+    }
+    ```
+    These are two different ways of specifying to make something go across two columns or rows... The first one specifies a starting line and and ending line (recall that grid tracks are not numbered.  The lines BETWEEN them are).  The second specifies a starting line and a number of rows to span across.
 
-Notice that the other tetrominos are filling in around the O-block now.
+    Notice that the other tetrominos are filling in around the O-block now.
 
 1. Let's put the "I" block next to the "O" block.
-```
-#i {
-	grid-column: 3/-1;
-	grid-row: span 1;
-}
-```
-What does that -1 mean?  Recall that grid lines are numbered from both the start (going further positive) and the end (going further negative)
+    ```
+    #i {
+        grid-column: 3/-1;
+        grid-row: span 1;
+    }
+    ```
+    What does that -1 mean?  Recall that grid lines are numbered from both the start (going further positive) and the end (going further negative)
 
-Also, since when do tetris blocks fill in from the top?  Since now. Deal with it.   :-)
- 
-Okay, I want to rotate a block.
+    Also, since when do tetris blocks fill in from the top?  Since now. Deal with it.   :-)
+
+    Okay, I want to rotate a block.
 
 1. Let's try our first CSS Transform on the red "Z" block:
-```
-#z img {
-	transform: rotate(90deg);
-}
-```
-It's rotating, but not quite around the right spot... It's rotating around it's own center point.
+    ```
+    #z img {
+        transform: rotate(90deg);
+    }
+    ```
+    It's rotating, but not quite around the right spot... It's rotating around it's own center point.
 
-I'd prefer to rotate around the top left corner & then shift the whole image about 200 pixels to the right.
+    I'd prefer to rotate around the top left corner & then shift the whole image about 200 pixels to the right.
 
 1. First, this style rule will change what part of the image is anchored during rotation:
 
-`transform-origin: 0 0;`
+    `transform-origin: 0 0;`
 
-Change the transform rule to this:  `transform:  translateX(205px) rotate(90deg);`
+    Change the transform rule to this:  `transform:  translateX(205px) rotate(90deg);`
 
-The order is important... Compare it to:  `transform:  rotate(90deg) translateX(205px);`
+    The order is important... Compare it to:  `transform:  rotate(90deg) translateX(205px);`
 
-Okay, Grid is great for situations where you want things to overlap!  Now we want the red Z to overlap the corner of the yellow "O" block.
+    Okay, Grid is great for situations where you want things to overlap!  Now we want the red Z to overlap the corner of the yellow "O" block.
 
 1. Use grid-column and grid-row like we did for the "o" and "i" blocks to put the "z" block into position:
-```
-#z {
-	grid-column: 2/span 2;
-	grid-row: 2/span 3;
-}
-```
-Okay, your challenge is to put all of the other blocks in position on the grid so that none of them are overlapping each other... The cells can overlap, but the tetromino images can not (except for the black edges).
+    ```
+    #z {
+        grid-column: 2/span 2;
+        grid-row: 2/span 3;
+    }
+    ```
+    Okay, your challenge is to put all of the other blocks in position on the grid so that none of them are overlapping each other... The cells can overlap, but the tetromino images can not (except for the black edges).
 
-***Before you go off doing that***, there's one more thing that we want you to do.  We want you to see how CSS transitions work.  They let you 'tween' between two states of some property of your HTML element... Could be many things from color, to width, to transform!
+    ***Before you go off doing that***, there's one more thing that we want you to do.  We want you to see how CSS transitions work.  They let you 'tween' between two states of some property of your HTML element... Could be many things from color, to width, to transform!
 
-Let's put a transition on the tetris blocks so we can make them rotate under our cursor!
+    Let's put a transition on the tetris blocks so we can make them rotate under our cursor!
 
 1. Start by telling all images on the page that if their rotation ever changes, that it should change over a 1 second duration:
-```
-img {
-    transition-property: transform;
-    transition-duration: 2s;
-}
-```
-Alone that won't do anything.
+    ```
+    img {
+        transition-property: transform;
+        transition-duration: 2s;
+    }
+    ```
+    Alone that won't do anything.
 
-but couple it with this hover rule:
-```
-img:hover {
-	transform: rotate(-90deg);
-}
-```
-And boy, howdy, do we have an interesting playground, amirite?
+    but couple it with this hover rule:
+    ```
+    img:hover {
+        transform: rotate(-90deg);
+    }
+    ```
+    And boy, howdy, do we have an interesting playground, amirite?
 
 1. Let's add one more interesting interface element:
-Assuming you didn't skip the rollover navigation menu:
+    Back to your rollover navigation menu:
 
-Add:     `transform:scale(1.1);`   to the .menu's "a:hover" state.
+    Add:     `transform:scale(1.1);`   to the .menu's "a:hover" state.
 
-Add:    `transition: transform 0.1s ease-in;`  to the .menu's regular "a" element.
+    Add:    `transition: transform 0.1s ease-in;`  to the .menu's regular "a" element.
 
-Try it... Pops out a bit, huh?  But the color change is sudden.  How about adding 
-" `, background-color 0.5s linear;` to that same transition declaration.
+    Try it... Pops out a bit, huh?  But the color change is sudden.  How about adding 
+    " `, background-color 0.5s linear;` to that same transition declaration.
 
-Interesting, right?  Well, that's enough for now.  
+    Interesting, right?  Well, that's enough for now.  
 
 1. Submit your finished version of this (with no overlapping tetrominos) to the assignment folder.
