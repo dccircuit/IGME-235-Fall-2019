@@ -8,7 +8,7 @@ Start with downloading the starter files located here:  [Tetris Grid Starter Fil
 
 ## Part One - Normalize your CSS with "Bootstrap Reboot"
 
-1. Look over your starter files, open the directory in VS Code, and preview the tetris-grid.html in your browser (probably by launching it with Live Server).
+1. Look over your starter files, open the *directory* in VS Code (right click the folder, r inside of it, and choose Open with Code), and preview the tetris-grid.html in your browser (probably by launching it with Live Server). If you haven't done this before... Figure it out now... Install the LiveServer extension (if it isn't already) and then right-click the file and choose "Open with LiveServer".  If Edge comes up, abort!  You can either change your default browser in windows setting or go into the Settings of VS Code and specify Chrome:  Like so: Ctrl-, (control-comma), Type liveserver in the search box and look for "Custom Browser" with a dropdown menu.  Pheww!
 
 2. Recall from the reading (Chapter 19) that there are two ways main ways to achieve a "clean slate" in your HTML so that your design can look the same on all browsers despite the potentially different "user agent style sheets":  
     - CSS reset (which overrides and essentially 'zeros out' all style rules... basically starting you out from square one).
@@ -38,7 +38,7 @@ The playground section will be another grid container of it's own (but we won't 
 
 1. On Mobile, everything will just stack up in a single column.
 
-1. Start by turning the `<div>` with the id of "wrapper" into a css grid container.
+1. Start by turning the `<div>` with the id of "wrapper" into a css grid container.  You should know how to do this with a display property.
 
 1. In the source code, the intro section comes first.  (better for screen readers), but when we view it on a mobile device, we want it to appear below the menu.  So, we'll specify the order that we want the 5 grid areas to appear in using the grid-template-areas property (you can copy and paste):
     ``` 
@@ -60,9 +60,9 @@ The playground section will be another grid container of it's own (but we won't 
 
 1. Does it appear in the right order, now?  
 
-1. Add some extra intro text with the lorem emmet shortcut:  Put your cursor after "Info about this page. " and then type `lorem100` and press return.  Done.		
+1. Add some extra intro text with the 'lorem' emmet shortcut in VS code:  Put your cursor after "Info about this page. " and then type `lorem100` (it works better if you actually type than cutting and pasting) and press return.  Done.		
 
-1. For the wider layout, change the grid-template-areas value to specify a layout like this:
+1. For the wider layout, we will change the grid-template-areas value to specify a layout like this:  (Where would you put this rule so that soon, we can put it in it's own media-query? -- which you'll do in the step after next)
     ```
     grid-template-areas:
         "logo       intro"
@@ -70,12 +70,10 @@ The playground section will be another grid container of it's own (but we won't 
         "playground playground"
         "footer     footer";
     ```
-    
-    Where would you put this rule so that soon, we can put it in it's own media-query?
 
-1. A preview will show you that the proportions are off at the top.  We need to save room for a logo that is 500pixels wide and 345px high. Write a grid-template-columns rule and a grid-template-rows rule that gives room for a logo. The other column can be 1fr wide and the other rows can be whatever the browser likes (ie: auto).
+1. A preview will show you that the proportions are off at the top.  We need to save room for a logo that is **500pixels wide and 345px high**. Write a grid-template-columns rule and a grid-template-rows rule that gives room for a logo. The other column can be 1fr wide and the other rows can be whatever the browser likes (ie: auto).
 
-1. Finally, surround these new declarations for wider screens with a media query that triggers on Media Type "screen" and Media Feature Query "min-width:850px"
+1. Finally, surround these new declarations for wider screens with a media query that triggers on Media Type "screen" and Media Feature Query "min-width:850px".  
 
 ## Part Three - Use Image Replacement to add the Tetris Logo
 
@@ -95,7 +93,7 @@ In Chapter 19, you also read about "Image Replacement Techniques"... Right now w
     }
     ```
 
-1. Use this same technique to match your image's width & height, link to its proper location in the images subfolder, and set a big negative text-indent to push the word "Tetris" off the screen.
+1. Use this same technique to match your image's width & height, link to its proper location (!) in the images subfolder (note, your relative link is starting from the css subdirectory so you'll need a different relative path), and set a big negative text-indent to push the word "Tetris" off the screen.
 
 1. Now that the logo is there, the introduction text could use a little space around it.  Applying a 2rem margin all the way around the introduction `<section>` will help with that. 
 
@@ -158,8 +156,8 @@ Make a sub-menu:
 
 1. put your cursor between the `</a>` at the end of the Official Tetris site link and before the `</li>` that ends that list item. and hit enter to make some space.
 
-2. In the blank space type the following emmet abbreviation (watch as the preview grows) and then hit enter:
-	`ul.menu>(li>a:link{Link $})*3`
+2. In the blank space type the following emmet abbreviation (watch as the preview grows) and then hit enter:  
+	`ul.menu>(li>a:link{Link $})*3`  
 		(you could also copy/paste and then hit ctrl-space then enter).
 	
 Immediately after, the cursor will put itself at the first href value so you can type a domain. ie: google.com then hit tab and type another.  Just throw some URLs in there.
