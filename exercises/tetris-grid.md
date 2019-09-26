@@ -16,7 +16,7 @@ Start with downloading the starter files located here:  [Tetris Grid Starter Fil
 
     However, in the 2nd week (Session 2-3), we've already brought up one other style sheet that BUILDS on Normalize, and that's Bootstrap Reboot.  Here's your chance to compare all three:
 
-3. All three are linked to your starter code in the css directory... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Select one to keep working with for the rest of the exercise.
+3. We've already downloaded and added all three to your CSS directory.  They are ready to link to your starter code... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Let's select "Bootstrap Reboot" to keep working with for the rest of the exercise.
 
 4. You should probably apply a little margin to the `<body>` tag.  Maybe 1rem?  Nobody likes words bumping up against the edge of something else.
 
