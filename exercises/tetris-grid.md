@@ -4,7 +4,7 @@ This exercise, is best done individually (so that everyone gets their hands on t
 
 We want you to complete this particular exercise and **submit it to the appropriate Assignment item in myCourses when you're done**.  You don't need to submit the previous Tetris-related exercises (the ones with floats and flexbox).
 
-Start with downloading the starter files located here:  [Tetris Grid Starter Files]()
+Start with downloading the starter files located here:  [Tetris Grid Starter Files](tetris-grid-start-files.zip)
 
 ## Part One - Normalize your CSS with "Bootstrap Reboot"
 
