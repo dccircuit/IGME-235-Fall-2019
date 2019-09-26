@@ -22,7 +22,7 @@ Start with downloading the starter files located here:  [Tetris Grid Starter Fil
 
 ## Part Two - Apply a Layout Grid
 
-Here's the plan: 
+Here's the plan (imagine these as a sketch): 
 
 ```
 Mobile:				Wider:
@@ -201,11 +201,11 @@ Okay, last part!
 
 Let's build a new Grid with a 6x6 layout.  
 
-Not gonna lie... I didn't get this to be responsive.  It would take a different approach with the image files, I believe, and I'm out of time to add more to this exercise.  Sorry.
+*Not gonna lie... I didn't get this to be responsive.  It would take a different approach with the image files, I believe, and I'm out of time to add more to this exercise.  Sorry.*
 
-You might want to do this part with Firefox so that you can use its awesome grid inspector tools.  Just copy the Live Server URL to your page out of the Chrome location box and paste it into Firefox's... the same JavaScript will watch for changes to the file and reload when it is modified.
+You might want to do this part with Firefox so that you can use its awesome grid inspector tools.  Just copy the Live Server URL to your page out of the Chrome location box and paste it into Firefox's... the same JavaScript will watch for changes to the file and reload when it is modified.  Then, when you use the inspector on an area that's a grid container, there will be a small grid button in the HTML that you can click on to display the grid inspector.
 
-Anyway:  Just add this code to get a 6x6 grid.
+1. Anyway:  Just add this code to get a 6x6 grid.
 ```
 #tetgrid {
     display: grid;
@@ -219,7 +219,7 @@ Interestingly, the default size of each square in the tetromino SVGs happens to 
 
 Notice how they all pile up, one to each grid cell and over-lap each other?  That's because the "overflow" of all of these divs is set to visible.  
 
-Test this rule real quick:
+1. Test this rule real quick:
 ```
 div.tet {
 	overflow: hidden
@@ -227,31 +227,33 @@ div.tet {
 ```
 Not as fun, right?  Why does one block look empty?
 
-Set that back... either delete the rule or set the overflow: visible;
+1. Set that back... either delete the rule or set the overflow: visible;
 
-Let's move our tetrominos around.  Let's take the "O" block and put it in the top left corner.  Try this code:
+1. Let's move our tetrominos around.  Let's take the "O" block and put it in the top left corner.  Try this code:
 ```
 #o {
     grid-column: 1/3;
     grid-row: 1/span 2;
 }
 ```
-These are two different ways of specifying to make something go across two columns or rows... The first one specifies a starting line and and ending line (recall that grid tracks are not numbered.  The lines BETWEEN them are).  The send specifies a starting line and a number of columns to span across.
+These are two different ways of specifying to make something go across two columns or rows... The first one specifies a starting line and and ending line (recall that grid tracks are not numbered.  The lines BETWEEN them are).  The second specifies a starting line and a number of rows to span across.
 
 Notice that the other tetrominos are filling in around the O-block now.
 
-Let's put the "I" block next to the "O" block.
+1. Let's put the "I" block next to the "O" block.
 ```
 #i {
 	grid-column: 3/-1;
 	grid-row: span 1;
 }
 ```
-Since when do tetris blocks fill in from the top?  Since now. Deal with it.
+What does that -1 mean?  Recall that grid lines are numbered from both the start (going further positive) and the end (going further negative)
+
+Also, since when do tetris blocks fill in from the top?  Since now. Deal with it.   :-)
  
 Okay, I want to rotate a block.
 
-Let's try our first CSS Transform on the red "Z" block:
+1. Let's try our first CSS Transform on the red "Z" block:
 ```
 #z img {
 	transform: rotate(90deg);
@@ -261,7 +263,7 @@ It's rotating, but not quite around the right spot... It's rotating around it's 
 
 I'd prefer to rotate around the top left corner & then shift the whole image about 200 pixels to the right.
 
-First, this style rule will change what part of the image is anchored during rotation:
+1. First, this style rule will change what part of the image is anchored during rotation:
 
 `transform-origin: 0 0;`
 
@@ -271,7 +273,7 @@ The order is important... Compare it to:  `transform:  rotate(90deg) translateX(
 
 Okay, Grid is great for situations where you want things to overlap!  Now we want the red Z to overlap the corner of the yellow "O" block.
 
-Use grid-column and grid-row like we did for the "o" and "i" blocks to put the "z" block into position:
+1. Use grid-column and grid-row like we did for the "o" and "i" blocks to put the "z" block into position:
 ```
 #z {
 	grid-column: 2/span 2;
@@ -280,11 +282,11 @@ Use grid-column and grid-row like we did for the "o" and "i" blocks to put the "
 ```
 Okay, your challenge is to put all of the other blocks in position on the grid so that none of them are overlapping each other... The cells can overlap, but the tetromino images can not (except for the black edges).
 
-Before you go off doing that, there's one more thing that we want you to do.  We want you to see how CSS transitions work.  They let 'tween' between two states of something about your HTML element... Could be may things from color, to width, to transform!
+***Before you go off doing that***, there's one more thing that we want you to do.  We want you to see how CSS transitions work.  They let you 'tween' between two states of some property of your HTML element... Could be many things from color, to width, to transform!
 
 Let's put a transition on the tetris blocks so we can make them rotate under our cursor!
 
-Start by telling all images on the page that if their rotation ever changes, that it should change over a 1 second duration:
+1. Start by telling all images on the page that if their rotation ever changes, that it should change over a 1 second duration:
 ```
 img {
     transition-property: transform;
@@ -299,9 +301,9 @@ img:hover {
 	transform: rotate(-90deg);
 }
 ```
-And boy, howdy, do we have an interesting playground.
+And boy, howdy, do we have an interesting playground, amirite?
 
-Let's add one more interesting interface element:
+1. Let's add one more interesting interface element:
 Assuming you didn't skip the rollover navigation menu:
 
 Add:     `transform:scale(1.1);`   to the .menu's "a:hover" state.
@@ -313,7 +315,4 @@ Try it... Pops out a bit, huh?  But the color change is sudden.  How about addin
 
 Interesting, right?  Well, that's enough for now.  
 
-Submit your finished version of this (with no overlapping tetrominos) to the assignment folder.
-
-
-
+1. Submit your finished version of this (with no overlapping tetrominos) to the assignment folder.
