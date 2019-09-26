@@ -206,18 +206,18 @@ Let's build a new Grid with a 6x6 layout.
 You might want to do this part with Firefox so that you can use its awesome grid inspector tools.  Just copy the Live Server URL to your page out of the Chrome location box and paste it into Firefox's... the same JavaScript will watch for changes to the file and reload when it is modified.  Then, when you use the inspector on an area that's a grid container, there will be a small grid button in the HTML that you can click on to display the grid inspector.
 
 1. Anyway:  Just add this code to get a 6x6 grid.
-```
-#tetgrid {
-    display: grid;
-    grid-template-columns: repeat(6, 100px);
-    grid-template-rows: repeat(6, 100px);
-}
-```
-Easy, right?  See what the tetromino pieces do?
+    ```
+    #tetgrid {
+        display: grid;
+        grid-template-columns: repeat(6, 100px);
+        grid-template-rows: repeat(6, 100px);
+    }
+    ```
+    Easy, right?  See what the tetromino pieces do?
 
-Interestingly, the default size of each square in the tetromino SVGs happens to be 100 pixels.
+    Interestingly, the default size of each square in the tetromino SVGs happens to be 100 pixels.
 
-Notice how they all pile up, one to each grid cell and over-lap each other?  That's because the "overflow" of all of these divs is set to visible.  
+    Notice how they all pile up, one to each grid cell and over-lap each other?  That's because the "overflow" of all of these divs is set to visible.  
 
 1. Test this rule real quick:
 ```
