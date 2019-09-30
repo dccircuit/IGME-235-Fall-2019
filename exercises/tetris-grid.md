@@ -16,9 +16,9 @@ Start with downloading the starter files located here:  [Tetris Grid Starter Fil
 
     However, in the 2nd week (Session 2-3), we've already brought up one other style sheet that BUILDS on Normalize, and that's Bootstrap Reboot.  Here's your chance to compare all three:
 
-3. We've already downloaded and added all three to your CSS directory.  They are ready to link to your starter code... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Let's select "Bootstrap Reboot" to keep working with for the rest of the exercise.
+3. We've already downloaded and added all three to your CSS directory.  They are ready to link to your starter code... Just uncomment each one one-at-a-time and compare what they do to your starting page.  Let's select "Bootstrap Reboot" to keep using for the rest of the exercise.
 
-4. You should probably apply a little margin to the `<body>` tag.  Maybe 1rem?  Nobody likes words bumping up against the edge of something else.
+4. You should probably apply a little margin to the `<body>` tag.  Maybe 1rem?  Nobody likes words bumping up against the edge of something else.  But don't add your new CSS to the bootstrap-reboot.css... Add them to your *own* CSS file.  We've already set it up for you: css/gridstyles.css. It starts out pretty empty!
 
 ## Part Two - Apply a Layout Grid
 
@@ -38,9 +38,9 @@ The playground section will be another grid container of it's own (but we won't 
 
 1. On Mobile, everything will just stack up in a single column.
 
-1. Start by turning the `<div>` with the id of "wrapper" into a css grid container.  You should know how to do this with a display property.
+1. Start by turning the `<div>` with the id of "wrapper" into a css grid container.  You should know how to do this with a display property.  Don't forget, you should be working in gridstyles.css from here on out.
 
-1. In the source code, the intro section comes first.  (better for screen readers), but when we view it on a mobile device, we want it to appear below the menu.  So, we'll specify the order that we want the 5 grid areas to appear in using the grid-template-areas property (you can copy and paste):
+1. In the source code, the intro section comes first.  (better for screen readers), but when we view it on a mobile device, we want it to appear below the menu.  So, we'll specify the order that we want the 5 grid areas to appear in using the grid-template-areas property (you can copy and paste -- you figure out where to put it):
     ``` 
      grid-template-areas:
         "logo" 
