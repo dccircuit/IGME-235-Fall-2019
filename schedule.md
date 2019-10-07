@@ -7,7 +7,7 @@
 | 1           | Aug 26-Aug 30 | [How the course works, how the web works](#week1)                   | Sep 2: Labor Day        |
 | 2           | Sep 3-Sep 9   | [Big concepts and HTML markup](#week2)                              |         |
 | 3           | Sep 10-Sep 16 | [Images and CSS formatting / box model](#week3)                     |         |
-| 4           | Sep 17-Sep 23 | [CSS Layout tools & page design principles](#week4)                 |         |
+| 4           | Sep 17-Sep 23 | [CSS Layout tools](#week4)                                                  |         |
 | 5           | Sep 24-Sep 30 | [Extra bells & whistles, advanced tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
 | 6           | Oct 1-Oct 7   | [PHP: Hypertext Preprocessor](#week6)                                 |         |
 | 7           | Oct 8-Oct 16  | [Frameworks, Libraries, Templates, **MIDTERM**](#week7)               | Oct 14-15: October Break |
@@ -47,7 +47,7 @@
 - 3-5 [Colors](sessions/3-5.md)
 - 3-6 [CSS box model](sessions/3-6.md)
 
-## <a id="week4">Week 4: CSS Layout tools & page design principles
+## <a id="week4">Week 4: CSS Layout tools
   
 - 4-1 [Floating and positioning](sessions/4-1.md)
 - 4-2 [Intro to Flexbox](sessions/4-2.md)
@@ -56,7 +56,7 @@
 - 4-5 [CSS Grid Demo](sessions/4-5.md)
 - 4-6 [Finish CSS Grid Demo/Intro to Responsive Web Design](sessions/4-6.md)
   
-## <a id="week5">Week 5: Extra bells & whistles, advanced tools, and putting it all together
+## <a id="week5">Week 5: Responsive Site Design & Advanced CSS 
 
 - 5-1 [Project 1 and other upcoming assignments](sessions/5-1.md)
 - 5-2 [Responsive Web Design)](sessions/5-2.md)
@@ -65,7 +65,7 @@
 - 5-5 [Tetris Grid Exercise](sessions/5-5.md)
 - 5-6 [Tetris Grid Exercise (continued)](sessions/5-6.md)
 
-## <a id="week6">Week 6: PHP: Hypertext Preprocessor
+## <a id="week6">Week 6: Design Principles and PHP: Hypertext Preprocessor
 
 - 6-1 [Navigation and Basic Design Principles](sessions/6-1.md)
 - 6-2 [Assessing Design](sessions/6-2.md)
@@ -74,7 +74,7 @@
 - 6-5 [PHP types, variables, constants...](sessions/6-5.md)
 - 6-6 [PHP arrays and array functions...](sessions/6-6.md)
 
-## <a id="week7">Week 7: Frameworks, Libraries, Templates(?), **MIDTERM**
+## <a id="week7">Week 7: PHP: Form Processing & **MIDTERM**
 
 - 7-1 [PHP Mail & Forms](sessions/7-1.md)
 - 7-2 [Midterm_review](sessions/7-2.md)
