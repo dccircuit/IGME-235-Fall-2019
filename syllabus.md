@@ -76,7 +76,7 @@ Note that while you should receive scores immediately for “Study Quizzes”, a
 
 ### Exams (25%)
 These exams consist of all manner of questions styles (multiple choice, true/false, matching, etc) as well as "write some code" questions. They will be 50 minutes long and administered via myCourses. There will be no make-ups or re-takes allowed without prior permission.
--	Midterm Exam (12.5%) - will be given during the 8th week of the semester.
+-	Midterm Exam (12.5%) - will be given during the 7th week of the semester.
 -	Final Exam (12.5%) - will be given on the last official day of class for the semester.
 
 ### “Study Quizzes” (5%)
