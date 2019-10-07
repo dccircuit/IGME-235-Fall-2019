@@ -53,35 +53,35 @@
 - 4-2 [Intro to Flexbox](sessions/4-2.md)
 - 4-3 [More Flexbox and Transition to Grid](sessions/4-3.md)
 - 4-4 [CSS Grid](sessions/4-4.md)
-- 4-5 [Responsive web design/mediaqueries/breakpoints](sessions/4-5.md)
-- 4-6 [More Design Tips/responsive images](sessions/4-6.md)
+- 4-5 [CSS Grid Demo](sessions/4-5.md)
+- 4-6 [Finish CSS Grid Demo/Intro to Responsive Web Design](sessions/4-6.md)
   
 ## <a id="week5">Week 5: Extra bells & whistles, advanced tools, and putting it all together
 
-- 5-1 [CSS Transition/Animations](sessions/5-1.md)
-- 5-2 [More CSS (especially CSS Reset)](sessions/5-2.md)
-- 5-3 [Modern web development notes](sessions/5-3.md)
-- 5-4 [Web design process](sessions/5-4.md)
-- 5-5 [Show group sites/Assign project 1](sessions/5-5.md)
-- 5-6 [A few words about PHP](sessions/5-6.md)
+- 5-1 [Project 1 and other upcoming assignments](sessions/5-1.md)
+- 5-2 [Responsive Web Design)](sessions/5-2.md)
+- 5-3 [Site Design Process](sessions/5-3.md)
+- 5-4 [Web design process - Presentations](sessions/5-4.md)
+- 5-5 [Tetris Grid Exercise](sessions/5-5.md)
+- 5-6 [Tetris Grid Exercise (continued)](sessions/5-6.md)
 
 ## <a id="week6">Week 6: PHP: Hypertext Preprocessor
 
-- 6-1 PHP Scalars/Variables
-- 6-2 PHP Type conversion/constants
-- 6-3 PHP Arrays
-- 6-4 PHP Array Functions
-- 6-5 PHP $_SERVER "super global"
-- 6-6 PHP Mail & Forms
+- 6-1 [Navigation and Basic Design Principles](sessions/6-1.md)
+- 6-2 [Assessing Design](sessions/6-2.md)
+- 6-3 [Intro to PHP](sessions/6-3.md)
+- 6-4 [Project 1 Critiques](sessions/6-4.md)
+- 6-5 [PHP types, variables, constants...](sessions/6-5.md)
+- 6-6 [PHP arrays and array functions...](sessions/6-6.md)
 
 ## <a id="week7">Week 7: Frameworks, Libraries, Templates(?), **MIDTERM**
 
-- 7-1 TBD/Frameworks
-- 7-2 TBD/Libraries/Plugins
-- 7-3 Midterm review
-- 7-4 Midterm review/questions
-- 7-5 Midterm
-- 7-6 Midterm- 
+- 7-1 [PHP Mail & Forms](sessions/7-1.md)
+- 7-2 [Midterm_review](sessions/7-2.md)
+- 7-3 [Midterm review](sessions/7-3.md)
+- 7-4 [Midterm](sessions/7-4.md)
+- 7-5 [Midterm](sessions/7-5.md)
+- 7-6 [Midterm](sessions/7-6.md)
 
 ## <a id="week8">Week 8: JavaScript Intro, Document Object Model (DOM)
 
