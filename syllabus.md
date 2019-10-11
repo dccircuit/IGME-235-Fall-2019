@@ -35,7 +35,7 @@
 - Teaching Assistant: Kyle Mulvey
 - Office: 70-3450
 - Email: dxsigm@rit.edu
-- Office hours: M,W,F 1:30pm - 4:30pm
+- Office hours: M,F 2:30pm - 4:30pm
 - Class meeting:
     - Section 04 - M,W 5:00PM - 6:15PM in GOL-2570 
 
