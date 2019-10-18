@@ -44,7 +44,6 @@ Some sample portfolio projects from previous years:
 - https://people.rit.edu/drs4149/portfolio/
 - https://people.rit.edu/ekt6170/portfolio.html
 - https://people.rit.edu/axw1799/portfolio/
-- https://people.rit.edu/wjb5377/230/portfolio/
 - https://people.rit.edu/iae2784/portfolio/
 - https://people.rit.edu/swa4861/portfolio/
 
