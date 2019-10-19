@@ -142,18 +142,18 @@ Properly optimized media | 1 |
 - [Some examples from previous semester's we showed you day 1](../weekly/week-01A-notes.md#vi-projects-and-other-stuff-for-inspiration)
 
 ### B. http://www.adhamdannaway.com
-![http://www.adhamdannaway.com](images/dannaway.jpg)
+![http://www.adhamdannaway.com](_images/dannaway.jpg)
 
 
 ### C. Here is the mobile version of the same page
-![http://www.adhamdannaway.com](images/dannaway-mobile.jpg)
+![http://www.adhamdannaway.com](_images/dannaway-mobile.jpg)
 
 
 ### D. http://dougwatro.com
-![dougwatro.com](images/watro.jpg)
+![dougwatro.com](_images/watro.jpg)
 
 
 ### E. Lynda.com Bootstrap example
-![Lynda.com Bootstrap example](images/wisdom-pet-medicine.jpg)
+![Lynda.com Bootstrap example](_images/wisdom-pet-medicine.jpg)
 
 
