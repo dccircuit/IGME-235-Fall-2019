@@ -83,67 +83,66 @@
 - 7-5 [Midterm](sessions/7-5.md)
 - 7-6 [Midterm](sessions/7-6.md)
 
-## <a id="week8">Week 8: JavaScript Intro, Document Object Model (DOM)
+## <a id="week8">Week 8: JavaScript Intro, Console, Data Types
 
-- 8-1 TBD/Templates/Single Page Sites
-- 8-2 JS Intro what's a web app/api
-- 8-3 JS Hello World/console
-- 8-4 JS Data Types let/var truthy/falsy "use strict"
-- 8-5 JS DOM
-- 8-6 JS More DOM methods
+- 8-1 [PHP Demos/Portfolios](sessions/8-1.md)
+- 8-2 [Portfolios](sessions/8-2.md)
+- 8-3 [Portfolio Assignment](sessions/8-3.md)
+- 8-4 [JS Intro what's a web app/api](sessions/8-4.md)
+- 8-5 [JS Hello World/console](sessions/8-5.md)
+- 8-6 [JS Data Types let/var truthy/falsy "use strict"](sessions/8-6.md)
 
 
-## <a id="week9">Week 9: JavaScript Functions, Events 
+## <a id="week9">Week 9: JavaScript DOM, Functions 
+- 9-1 [JS DOM](sessions/9-1.md)
+- 9-2 [JS More DOM methods](sessions/9-2.md)
+- 9-3 [JS More DOM methods](sessions/9-3.md)
+- 9-4 [JS Functions (declaration/expression)](sessions/9-4.md)
+- 9-5 [JS Scope and Hoisting](sessions/9-5.md)
+- 9-6 [JS Arrow Functions](sessions/9-6.md)
 
-- 9-1 JS Functions (declaration/expression)
-- 9-2 JS Scope and Hoisting
-- 9-3 JS Arrow Functions
-- 9-4 JS Event Handlers
-- 9-5 JS Event Listeners
-- 9-6 JS element.dataset
-
-## <a id="week10">Week 10: JavaScript Object Literals, Arrays
+## <a id="week10">Week 10: JavaScript Events, Object Literals
   
-- 10-1 JS Object Literals
-- 10-2 JS Object behaviours and factories
-- 10-3 JS Value types and reference types
-- 10-4 JS Arrays & operations
-- 10-5 JS Array iteration
-- 10-6 JS Nodelists, Typed Arrays, method chaining
+- 10-1 JS Event Handlers
+- 10-2 JS Event Listeners
+- 10-3 JS element.dataset
+- 10-4 JS Object Literals
+- 10-5 JS Object behaviours and factories
+- 10-6 JS Value types and reference types
 
-## <a id="week11">Week 11: JavaScript Webstorage, Web Services / Portfolios
+## <a id="week11">Week 11: JavaScript Arrays, Webstorage, Web Services
   
-- 11-1 JS WebStorage 
-- 11-2 JS Web Services
-- 11-3 GIF Finder / Project 2 (Chibi matching?)
-- 11-4 Portfolios
-- 11-5 Portfolios
-- 11-6 Portfolio Assignment
+- 11-1 JS Arrays & operations
+- 11-2 JS Array iteration
+- 11-3 JS Nodelists, Typed Arrays, method chaining
+- 11-4 JS WebStorage 
+- 11-5 JS Web Services
+- 11-6 GIF Finder / Project 2
 
-## <a id="week12">Week 12: Frameworks vs. Browser Standards, Grid Systems/Skeleton demo / PIXI intro
+## <a id="week12">Week 12: Frameworks vs. Browser Standards, Grid Systems/Skeleton demo / Project 2 prototypes
   
 - 12-1 Frameworks vs. Browser Standards
 - 12-2 Grid Systems/Skeleton Demo
-- 12-3 
-- 12-4 Intro to PixiJS
-- 12-5 
-- 12-6 
+- 12-3 TBD
+- 12-4 Project 2 Prototypes
+- 12-5 Project 2 Prototypes
+- 12-6 Project 2 Prototypes
 
-## <a id="week13">Week 13: More PIXI (ES 6 Classes) / Project 2 prototypes
+## <a id="week13">Week 13: PIXI (ES 6 Classes) 
   
-- 13-1 ES6 Classes.
-- 13-2 Project 2 Prototypes
-- 13-3 Project 2 Prototypes
-- 13-4 Project 2 Prototypes
-- 13-5 Project 2 Prototypes
-- 13-6 
+- 13-1 PixiJS and Circle Blast
+- 13-2 TBD
+- 13-3 TBD
+- 13-4 TBD
+- 13-5 TBD
+- 13-6 TBD
  
 ## <a id="week14">Week 14: Project 3 prototypes / **FINAL EXAM** 
   
 - 14-1 Project 3 Prototypes
 - 14-2 Project 3 Prototypes
 - 14-3 Final Exam Review
-- 14-4 Final Exam Review/questions
+- 14-4 Final Exam Review
 - 14-5 Final Exam
 - 14-6 Final Exam
 
