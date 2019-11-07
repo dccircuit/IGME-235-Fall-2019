@@ -103,39 +103,39 @@
 
 ## <a id="week10">Week 10: JavaScript Events, Object Literals
   
-- 10-1 JS Event Handlers
-- 10-2 JS Event Listeners
-- 10-3 JS element.dataset
-- 10-4 JS Object Literals
-- 10-5 JS Object behaviours and factories
-- 10-6 JS Value types and reference types
+- 10-1 JS [Event Handlers](sessions/10-1.md)
+- 10-2 JS [Event Listeners](sessions/10-2.md)
+- 10-3 JS [element.dataset](sessions/10-3.md)
+- 10-4 JS [Object Literals](sessions/10-4.md)
+- 10-5 JS [Object behaviours and factories](sessions/10-5.md)
+- 10-6 JS [Value types and reference types](sessions/10-6.md)
 
 ## <a id="week11">Week 11: JavaScript Arrays, Webstorage, Web Services
   
-- 11-1 JS Arrays & operations
-- 11-2 JS Array iteration
-- 11-3 JS Nodelists, Typed Arrays, method chaining
-- 11-4 JS WebStorage 
-- 11-5 JS Web Services
-- 11-6 GIF Finder / Project 2
+- 11-1 JS [Arrays & operations, iteration](sessions/11-1.md)
+- 11-2 JS [Nodelists, Typed Arrays, method chaining](sessions/11-1.md)
+- 11-3 JS [WebStorage, Web Services](sessions/11-1.md)
+- 11-4 GIF Finder / JS Libraries?
+- 11-5 GIF Finder design/CSS Grid
+- 11-6 Project 2
 
 ## <a id="week12">Week 12: Frameworks vs. Browser Standards, Grid Systems/Skeleton demo / Project 2 prototypes
   
-- 12-1 Frameworks vs. Browser Standards
-- 12-2 Grid Systems/Skeleton Demo
-- 12-3 TBD
+- 12-1 Pixi JS lecture begins
+- 12-2 Pixi JS lecture beginsTBD
+- 12-3 Pixi JS lecture begins
 - 12-4 Project 2 Prototypes
 - 12-5 Project 2 Prototypes
 - 12-6 Project 2 Prototypes
 
 ## <a id="week13">Week 13: PIXI (ES 6 Classes) 
   
-- 13-1 PixiJS and Circle Blast
-- 13-2 TBD
-- 13-3 TBD
-- 13-4 TBD
-- 13-5 TBD
-- 13-6 TBD
+- 13-1 PixiJS Lecture ends and Circle Blast
+- 13-2 PixiJS Lecture ends and Circle Blast
+- 13-3 PixiJS Lecture ends and Circle Blast
+- 13-4 Circle Blast Due
+- 13-5 Circle Blast Due
+- 13-6 Circle Blast Due
  
 ## <a id="week14">Week 14: Project 3 prototypes / **FINAL EXAM** 
   
