@@ -90,7 +90,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 ### B. Design & Interaction
 - Pleasing graphic design:
   - with a custom interface coded in HTML/CSS, by you
-  - this interface does not resemble the GIPHY homework's UI
+  - this interface does not closely resemble the GIPHY homework's UI
 - Widgets are well labeled and follow interface conventions, for example:
   - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
   
@@ -103,21 +103,15 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - text that says "Searching for 'Tacos' near you" and so on
     - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
-- ~~You are allowed and encouraged to use a CSS framework for this project - see below!~~
+- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as we'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
+- You are encouraged to use CSS Flexbox and/or Grid for this project.  However, you MAY use a CSS framework such as Bootstrap, Skeleton, or Materialize CSS as an alternative.
 
 ### C. HTML/CSS & Media
-- Valid HTML5 - https://validator.w3.org
+- Valid HTML5 - https://validator.nu/
 - Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet.
 - Use HTML5 semantic and structural elements where practical.
 - Images are properly optimized for Web delivery.
-- ~~you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:~~
-    - ~~http://getbootstrap.com~~
-    - ~~http://materializecss.com~~
-    - ~~https://purecss.io~~
-    - ~~https://github.com/troxler/awesome-css-frameworks~~
-
 
 ### D. Code Conventions
 - All code is an external JavaScript file - inline event handlers are not allowed
