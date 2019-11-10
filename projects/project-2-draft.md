@@ -9,37 +9,64 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
 - You will be evaluated on:
-    - your creativity
-    - the quality of the experience you create
-    - the soundness of your programming
-    - how far you went beyond what we did in class, as described below
+    - how well you met the requirements of the assignment.
+    - the quality of the experience you create.
+    - the soundness of your programming.
     
 - Resources:
     - Our entire Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
-   - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
-   - Here are some working web service examples for you to look at - you can use any of these APIs in your project except for GIPHY: [web-service-app-starters.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
+   - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-gif-finder.md) 
+   - Here are some working web service examples for you to look at - you can use any of these APIs in your project except for GIPHY: [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## II. Requirements
 
 ### A. Functional
-1. Your application will utilize a web service from this list:
+1. You have three options for selecting a Web API for this project.
+- Continue to use the GIPHY API and deliver a GREATLY improved version of GIF Finder.
+- Use one of a specified set of APIs and create a similar experience to GIF Finder that meets the requirments.
+- Select another API of your choice that you can provide a proof-of-concept for by the Proposal due-date.
 
-    +++ A list of approved APIs will be provided here.  The following list is full of ideas from previous semesters:
+#### GIPHY Option
+- You may choose to use GIPHY for this project, however you must do the following things.
+  - Completely re-vamp the user interface.  There should be no elements from the original interface (images, layout, buttons, phrasing, etc) still in use in your new implementation.  
+  - Add much more functionality.  At a minimum:
+    - Sign up for your own GIPHY API key.
+    - Implement a "Searching..." spinner or other progress graphic.
+    - Add a way to "Get More" results with "next/previous" functionality.
+    - At least 2 other new features. for example:
+      - Keep a list of recent searches.
+      - Find popular/trending GIFs.
+      - Allow the user to "favorite" images and then retrieve them later.
+      - Give the user a "Copy" link that copies the URL of the GIF to their clipboard.
     
-    - https://github.com/toddmotto/public-apis
-        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely **NOT work** for this project
-        - **DO NOT** use any API that requires *OAuth* authentication
-        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - You may optionally utilize an API from this list (although these have not been as extensively curated):
+#### Specified API Option
+- You may get familiar with and use one of the APIs from this list:
+  - Because APIs change from time to time this is not a guarantee that these APIs will be smooth sailing, but they have been shown to work.
+    - Dog API*: https://dog.ceo/dog-api/
+    - Jikan Unofficial MyAnimeList API*: https://jikan.docs.apiary.io/
+    - The Amiibo API*: http://www.amiiboapi.com
+        - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
+    - REST Countries: https://restcountries.eu/
+    - Foreign Exchange Rates API: https://exchangeratesapi.io/
+    - TheMealDB API: https://www.themealdb.com/api.php
+    
+        
+#### Choose Your Own API Option
+- This choice is for the more adventurous students who want to try to go beyond the well-trodden paths and look for an alternative API that appeals to them.
+- But if you wish to make this choice, you must be able to prove that you can access the API by the due date of the PROPOSAL.
+- You must also be able to keep your project to a reasonable scope that is roughly equivalent to the other assignments.
+- There are API lists that you can peruse, however there are a couple of guidelines.
+  - Look for an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will **NOT work** well for this project
+    - **DO NOT** use any API that requires *OAuth* authentication
+    - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
+    - Here are a couple of lists to check out:
+      - https://github.com/toddmotto/public-apis
       - https://github.com/abhishekbanthia/Public-APIs
-    - Finally, these APIs will definitely work, and there is code to get you started (although you are not allowed to use the GIPHY API for this project): [web-service-app-starters.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
-      - Any API from GIPHY - https://developers.giphy.com/docs/
-      - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-- **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
+    - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
 
-2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+### A. Functional - continued.
+2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
     - ideally this will also be true of the other controls, but we won't require it.
 
