@@ -1,6 +1,6 @@
 # Project 2 - Web Service Application
 
-***There will be modifications to this assignment before it is officially assigned.  Do not begin working on it until this message is removed***
+***This is a draft version of Project 2. It's getting closer to ready, but not ready yet.***
 
 ## I. Overview
 
