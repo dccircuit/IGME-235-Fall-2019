@@ -1,6 +1,6 @@
 # Project 2 - Web Service Application
 
-***This is a draft version of Project 2. It's getting closer to ready, but not ready yet.***
+***This is very nearly the final version of the Project 2 assignment.  There may be a few small edits for clarity, yet, but you can start working on it any time.***
 
 ## I. Overview
 
