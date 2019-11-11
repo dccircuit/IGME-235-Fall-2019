@@ -1,6 +1,6 @@
 # Project 2 - Web Service Application
 
-***There will be modifications to this assignment before it is officially assigned.  Do not begin working on it until this message is removed***
+***This is a draft version of Project 2. It's getting closer to ready, but not ready yet.***
 
 ## I. Overview
 
@@ -9,37 +9,64 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a [web browser DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) context. 
 - You will be evaluated on:
-    - your creativity
-    - the quality of the experience you create
-    - the soundness of your programming
-    - how far you went beyond what we did in class, as described below
+    - how well you met the requirements of the assignment.
+    - the quality of the experience you create.
+    - the soundness of your programming.
     
 - Resources:
     - Our entire Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
-   - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
-   - Here are some working web service examples for you to look at - you can use any of these APIs in your project except for GIPHY: [web-service-app-starters.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
+   - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-gif-finder.md) 
+   - Here are some working web service examples for you to look at - you can use any of these APIs in your project except for GIPHY: [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## II. Requirements
 
 ### A. Functional
-1. Your application will utilize a web service from this list:
+1. You have three options for selecting a Web API for this project.
+- Continue to use the GIPHY API and deliver a GREATLY improved version of GIF Finder.
+- Use one of a specified set of APIs and create a similar experience to GIF Finder that meets the requirments.
+- Select another API of your choice that you can provide a proof-of-concept for by the Proposal due-date.
 
-    +++ A list of approved APIs will be provided here.  The following list is full of ideas from previous semesters:
+#### GIPHY Option
+- You may choose to use GIPHY for this project, however you must do the following things.
+  - Completely re-vamp the user interface.  There should be no elements from the original interface (images, layout, buttons, phrasing, etc) still in use in your new implementation.  
+  - Add much more functionality.  At a minimum:
+    - Sign up for your own GIPHY API key.
+    - Implement a "Searching..." spinner or other progress graphic.
+    - Add a way to "Get More" results with "next/previous" functionality.
+    - At least 2 other new features. for example:
+      - Keep a list of recent searches.
+      - Find popular/trending GIFs.
+      - Allow the user to "favorite" images and then retrieve them later.
+      - Give the user a "Copy" link that copies the URL of the GIF to their clipboard.
     
-    - https://github.com/toddmotto/public-apis
-        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely **NOT work** for this project
-        - **DO NOT** use any API that requires *OAuth* authentication
-        - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - You may optionally utilize an API from this list (although these have not been as extensively curated):
+#### Specified API Option
+- You may get familiar with and use one of the APIs from this list:
+  - Because APIs change from time to time this is not a guarantee that these APIs will be smooth sailing, but they have been shown to work.
+    - Dog API*: https://dog.ceo/dog-api/
+    - Jikan Unofficial MyAnimeList API*: https://jikan.docs.apiary.io/
+    - The Amiibo API*: http://www.amiiboapi.com
+        - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
+    - REST Countries: https://restcountries.eu/
+    - Foreign Exchange Rates API: https://exchangeratesapi.io/
+    - TheMealDB API: https://www.themealdb.com/api.php
+    
+        
+#### Choose Your Own API Option
+- This choice is for the more adventurous students who want to try to go beyond the well-trodden paths and look for an alternative API that appeals to them.
+- But if you wish to make this choice, you must be able to prove that you can access the API by the due date of the PROPOSAL.
+- You must also be able to keep your project to a reasonable scope that is roughly equivalent to the other assignments.
+- There are API lists that you can peruse, however there are a couple of guidelines.
+  - Look for an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will **NOT work** well for this project
+    - **DO NOT** use any API that requires *OAuth* authentication
+    - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
+    - Here are a couple of lists to check out:
+      - https://github.com/toddmotto/public-apis
       - https://github.com/abhishekbanthia/Public-APIs
-    - Finally, these APIs will definitely work, and there is code to get you started (although you are not allowed to use the GIPHY API for this project): [web-service-app-starters.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
-    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
-      - Any API from GIPHY - https://developers.giphy.com/docs/
-      - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-- **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
+    - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
 
-2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+### A. Functional - continued.
+2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
     - ideally this will also be true of the other controls, but we won't require it.
 
@@ -63,7 +90,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 ### B. Design & Interaction
 - Pleasing graphic design:
   - with a custom interface coded in HTML/CSS, by you
-  - this interface does not resemble the GIPHY homework's UI
+  - this interface does not closely resemble the GIPHY homework's UI
 - Widgets are well labeled and follow interface conventions, for example:
   - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
   
@@ -76,21 +103,15 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - text that says "Searching for 'Tacos' near you" and so on
     - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
-- ~~You are allowed and encouraged to use a CSS framework for this project - see below!~~
+- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as we'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
+- You are encouraged to use CSS Flexbox and/or Grid for this project.  However, you MAY use a CSS framework such as Bootstrap, Skeleton, or Materialize CSS as an alternative.
 
 ### C. HTML/CSS & Media
-- Valid HTML5 - https://validator.w3.org
+- Valid HTML5 - https://validator.nu/
 - Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet.
 - Use HTML5 semantic and structural elements where practical.
 - Images are properly optimized for Web delivery.
-- ~~you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:~~
-    - ~~http://getbootstrap.com~~
-    - ~~http://materializecss.com~~
-    - ~~https://purecss.io~~
-    - ~~https://github.com/troxler/awesome-css-frameworks~~
-
 
 ### D. Code Conventions
 - All code is an external JavaScript file - inline event handlers are not allowed
@@ -113,44 +134,11 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 ## V. Grading
 - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
-Your project will be graded on the following criteria:
+The grading rubric for this project is visible in myCourses.  You should look it over carefully.  Find it by going to the "Assignments" section and clicking through to the "Project 2 Final Submission" dropbox.
 
-***This will be modified to use a myCourses rubric for grading. Check back later***
+Furthermore, Complete the Project 2 Assessment Survey.
 
-| Criteria | Weight | Your Score |
-| -------- | ------ | ---------- |
-| **Functionality** | **40** | |
-|  - Is useful and/or entertaining | |
-|  - Demonstrates creativity | |
-|  - Runs without errors | |
-|  - *Does not remember last search term* | *(-10)* |
-|  - *Missing controls* | *(-15 each)* |
-| **Design & Interaction** | **20** | |
-|  - Visual design is pleasing | |
-|  - Interface is clear and well labeled | |
-|  - Standard interface conventions followed | |
-|  - The *state* the application is in is obvious | |
-|  - Prevents and handles errors well | |
-|  - *Interface looks like GIF Finder HW* | *(-10)* |
-|  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
-| **HTML/CSS/Media**  | **10** | |
-|  - HTML and CSS validate | |
-|  - CSS is primarily in a single external stylesheet | |
-|  - Makes proper use of structural tags, etc. | |
-|  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
-| **Code**  | **10** | |
-|  - Code is well formatted and commented | |
-|  - Code is located in an external JavaScript file | |
-|  - Code follows coding standards detailed above | |
-| **Documentation** | **10** | |
-| **Above and Beyond (see below)** | **10** | |
-| **Possible Total Points** | **100** | |
-| Deduction if proposal is not submitted to dropbox on time | -10 | |
-
-Note:
-- **Good** (Meet all requirements above reasonably well) = 90%
-- **Better** (Go beyond expectations in 2 or more areas) = 95%
-- **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
+Reminder - 'A' -level work means doing college-level work that goes beyond what we did in class. (You should be able to see this reflected in the online Rubric). Meeting only the base requirements will most likely only earn you a B.
 
 ## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
