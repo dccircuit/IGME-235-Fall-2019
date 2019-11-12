@@ -1,6 +1,6 @@
 # Project 2 - Web Service Application
 
-***This is very nearly the final version of the Project 2 assignment.  There may be a few small edits for clarity, yet, but you can start working on it any time.***
+***This is the mostly final version of the Project 2 assignment.  There may be a few small edits for clarity, but you can start working on it any time.***
 
 ## I. Overview
 
@@ -50,7 +50,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - REST Countries: https://restcountries.eu/
     - Foreign Exchange Rates API: https://exchangeratesapi.io/
     - TheMealDB API: https://www.themealdb.com/api.php
-    
+  - You can make pretty much any experience you like as long as it captures a user request, gets data from the API, and then presents it back in a way that is useful or fun, easy to understand, and fairly organized. 
         
 #### Choose Your Own API Option
 - This choice is for the more adventurous students who want to try to go beyond the well-trodden paths and look for an alternative API that appeals to them.
@@ -61,8 +61,8 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
     - **DO NOT** use any API that requires *OAuth* authentication
     - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - Here are a couple of lists to check out:
-      - https://github.com/toddmotto/public-apis
-      - https://github.com/abhishekbanthia/Public-APIs
+      - https://github.com/toddmotto/public-apis <- Includes CORS column.
+      - https://github.com/abhishekbanthia/Public-APIs <- Less info about each API.
     - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
 
 ### A. Functional - continued.
