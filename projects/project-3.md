@@ -5,26 +5,26 @@
 ## I. Overview
 *Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
 
-- For this project you (and, preferably, a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
+- For this project you (and, preferably, a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1.
 - You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
     - When working with a partner, this means that only one website between you will need to be updated.  You can choose to build either of your two games, create an entirely new one, or maybe make a mashup of your two ideas(!?).
-- If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2019/blob/master/exercises/projects.md)
+- If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2019/blob/master/exercises/projects.md).
 
 You will use **ONE** of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
-    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started **OR**
+    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started **OR**
 - **JavaScript & the Browser DOM** - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
-    - [DOM Adventure!](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-adventure.md) is a tile-based game that uses arrow keys for movement, and simple sound
-    - [DOM Chibi Matching](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-chibi-matching.md) is a card matching game that uses CSS animations
-    - [DOM Life](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-life.md) is a tile-based game that explores simple [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
-    - [Magentic Poetry](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events
+    - [DOM Adventure!](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-adventure.md) is a tile-based game that uses arrow keys for movement, and simple sound.
+    - [DOM Chibi Matching](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-chibi-matching.md) is a card matching game that uses CSS animations.
+    - [DOM Life](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-life.md) is a tile-based game that explores simple [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton).
+    - [Magentic Poetry](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events.
 
 - **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
 - **IMPORTANT: THIS PROJECT NEEDS TO BE _YOUR WORK_:**
-    - If you are using *Circle Blast!* or another game we gave you as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding and functional sections of the rubric
-    - You must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
-    - One reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
+    - If you are using *Circle Blast!* or another game we gave you as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding and functional sections of the rubric.
+    - You must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric.
+    - One reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position.
 
 
 ## II. Goal
