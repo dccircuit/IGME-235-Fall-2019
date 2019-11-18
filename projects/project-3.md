@@ -94,43 +94,19 @@ During final exam week, you will present your project in a brief demo. Plan to s
 ## VII. Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
-Your project will be graded on the following criteria:
+### Your project grade will be split into two parts.
+- 2/3 of your overall score will be assessed during the presentation you give that occurs during Finals Week.
+- 1/3 of your overall score will be assessed separately based on your required submission.
 
-***This rubric will be modified and replaced by one on myCourses.  Check back for that information.***
+#### The Rubric for the Presentation Day can be found in myCourses soon (if not already -- choose the new "Rubrics" menu item next to "Grades" and click on the "Preview" item in the pull-down next to the Project 3 rubric(s))
 
-| Criteria | Weight | Your Score |
-| -------- | ------ | ---------- |
-| **A. Functionality** | **30** | |
-|  - Is useful and/or entertaining | |
-|  - Demonstrates creativity | |
-|  - Uses an additional HTML5 technology | |
-|  - Runs without errors | |
-|  - Functionality is either distinct from the in-class examples, or goes significantly beyond them in scope | |
-| **B. Design & Interaction** | **20** | |
-|  - Visual design is pleasing | |
-|  - Sound (both incidental and background) enhances the experience | |
-|  - Interface is clear and well labeled | |
-|  - Prevents and handles errors well | |
-| **C. and D. Media/HTML/CSS**  | **10** | |
-|  - Optimized Images | |
-|  - HTML and CSS validate | |
-|  - CSS is primarily in a single external stylesheet | |
-|  - Makes proper use of structural tags, etc. | |
-|  - Media (sound, fonts, images, etc) has been changed from what was provided in class | |
-| **E. Implementation and Code** | **20** | |
-|  - Code is well formatted and commented, and follows coding standards | |
-|  - Code is logically broken out into separate JS files | |
-|  - Code is distinct from, and/or goes beyond what we have done in class | |
-| **Above and Beyond (see below)** | **10** | |
-| **Presentation** | **10** | |
-| **Possible Total Points** | **100** | |
-| Bonus if project is submitted in time for early presentation | +?? | |
-| Deduction if proposal is not updated on time | -20 | |
-| Deduction if prototype is not submitted on time | -20 | |
-| Deduction if final documentation is not submitted on time | -20 | |
-
-Note for "above and beyond":
-- **Good** (Meet all requirements above reasonably well) = 90%
-- **Better** (Go beyond expectations in 2 or more areas) = 95%
-- **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
+#### The Second Rubric is in development but will contain the following list of criteria:
+- Additional HTML5 technology is present
+- Includes at least one ES6 Class of your own creation
+- Related HTML & CSS are reasonably valid
+- Prevents and handles errors well
+- Images are optimized.
+- Proposal was updated on time.
+- Prototype was available for critique.
+- Documentation.
 
