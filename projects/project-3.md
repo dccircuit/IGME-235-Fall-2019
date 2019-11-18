@@ -59,7 +59,7 @@ You will use **ONE** of these technology stacks:
 - you have changed the fonts, graphics, spritesheets, and sounds from what was provided in the in-class examples
 
 ### D. HTML/CSS
-- Valid HTML5 - https://validator.w3.org
+- Valid HTML5 - https://html5.validator.nu/
 - Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet
 - Use HTML5 semantic and structural elements where practical
