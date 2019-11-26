@@ -1,7 +1,5 @@
 # Project 2 - Web Service Application
 
-***This is the mostly final version of the Project 2 assignment.  There may be a few small edits for clarity, but you can start working on it any time.***
-
 ## I. Overview
 
 For this project you (and, preferably, a partner) are creating a JavaScript driven Web application that utilizes a Web service.
