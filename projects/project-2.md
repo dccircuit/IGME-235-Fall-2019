@@ -136,7 +136,7 @@ For this project you (and, preferably, a partner) are creating a JavaScript driv
 
 The grading rubric for this project is visible in myCourses.  You should look it over carefully.  Find it by going to the "Assignments" section and clicking through to the "Project 2 Final Submission" dropbox.
 
-Furthermore, Complete the Project 2 Assessment Survey.
+Furthermore, Complete the Project 2 Assessment Survey. (Not yet created... Ignore until notified by Professsor).
 
 Reminder - 'A' -level work means doing college-level work that goes beyond what we did in class. (You should be able to see this reflected in the online Rubric). Meeting only the base requirements will most likely only earn you a B.
 
