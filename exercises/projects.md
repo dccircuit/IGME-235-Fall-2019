@@ -9,24 +9,28 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 
 
 ### Project 2s
+- https://people.rit.edu/afb3535/235/Project2/
+- https://people.rit.edu/mab7367/235/project2/
+- https://people.rit.edu/txa7348/235/project2/
+- https://people.rit.edu/cbr7117/235/project2/
+- https://people.rit.edu/ald1289/235/rating-finder/ratingFinder.html
+- https://people.rit.edu/mes3585/235/project2/
+- https://people.rit.edu/nmm3037/235/project2/
+- https://people.rit.edu/spg1627/235/project2/
+- https://people.rit.edu/crl3554/235/project2/amiiboFinder/
+- https://people.rit.edu/jeh4253/235/project2/
+- https://people.rit.edu/rw7363/235/project2/
+- https://people.rit.edu/nzl6723/235/project2/gif-finder.html
+- https://people.rit.edu/daj6462/235/project2/
+- https://people.rit.edu/kct2548/235/pokemon_card_finder/card-finder.html
 - https://people.rit.edu/yl5209/230/project2/
 - https://people.rit.edu/ajr6974/230/project2/
 - https://people.rit.edu/rls2819/230/project2/index.html
-- https://people.rit.edu/kns1112/230/project2/
 - https://people.rit.edu/jcs1738/230/project2/
-- https://people.rit.edu/rcm4155/230/project2/
-- https://people.rit.edu/rkb2204/230/project2/
-- https://people.rit.edu/lxb7132/230/project2/
-- https://people.rit.edu/cxj5542/230/project2/
-- https://people.rit.edu/tar6248/230/project2/project2.html
-- https://people.rit.edu/bbd4327/230/project2/
-- https://people.rit.edu/sl4956/230/project2/
 - https://people.rit.edu/ss1594/230/project2/
 - https://people.rit.edu/ggc2903/230/project2/
 - https://people.rit.edu/iod6239/230/project2/
-- https://people.rit.edu/bnk5901/230/project2/
-- https://people.rit.edu/rxr3062/230/projects/p2/
-- https://people.rit.edu/zmw3607/230/project2/Project-2.html
+
 
 ### Project 1s + Project 3s (ignore project numbers in the URLs)
 
@@ -94,5 +98,3 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ## If you get done early:
 - Start making some notes about project features, game ideas, portfolio elements that you might want to incorporate into your own project.
     
-### Navigation
-[Return to Session 1-3](../sessions/1-3.md)
