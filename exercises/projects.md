@@ -6,7 +6,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Check out the links below and visit at least one project in each category.
 
 
-### Portfolios (Starting for Project 1)
+### Portfolios (We will start ours for Project 1)
 
 #### Fall 2019 Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/acm1551/235/portfolio/
@@ -140,10 +140,6 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Isolation - https://people.rit.edu/swa4861/230/project1/
 - Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
 - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
-
-
-
-
 
 ## If you get done early:
 - Start making some notes about project features, game ideas, portfolio elements that you might want to incorporate into your own project.
