@@ -78,30 +78,30 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 ### Project 3s (ignore project numbers in the URLs -- it has had different numbers in the past)
 
 #### Fall 2019 Games (mixed -- some DOM, some PixiJS)
-- https://people.rit.edu/rdt7867/235/project3/
-- https://people.rit.edu/afb3535/235/Project1/pages/project.html
-- https://people.rit.edu/jtb6154/235/project3/
-- https://people.rit.edu/mab7367/235/project3/
-- https://people.rit.edu/txa7348/235/project1/project.html
-- https://people.rit.edu/daj6462/235/project1/project
-- https://people.rit.edu/kct2548/235/idle_arcana/
-- https://people.rit.edu/prh9765/235/project3/game.html
-- https://people.rit.edu/jcw2298/235/comet_chasers/project.html
-- https://people.rit.edu/ead1758/235/project1/project.html
-- https://people.rit.edu/rw7363/235/project3/game.html
-- https://people.rit.edu/cel1369/235/project3/
-- https://people.rit.edu/fbm5733/235/project1/project.html
-- https://people.rit.edu/bwb2109/235/project1/project.html
-- https://people.rit.edu/spg1627/235/project3/project.html 
-- https://people.rit.edu/jeh4253/235/project3/game/index.html
-- https://people.rit.edu/mes3585/235/project3/project.html
-- https://people.rit.edu/bil1616/235/project1/project.html
-- https://people.rit.edu/sdl1585/235/Project3/project.html
-- https://people.rit.edu/nmm3037/235/project1/project.html
-- https://people.rit.edu/sz5100/235/GameProposalSite/Game.html
-- https://people.rit.edu/kjl8898/235/project1/project.html
-- https://people.rit.edu/kiz8980/235/project3/project.html
-- https://people.rit.edu/cre1467/235/project1/game.html
+- Temple Tiles - https://people.rit.edu/rdt7867/235/project3/
+- &mu;Karts - https://people.rit.edu/afb3535/235/Project1/pages/project.html
+- Cryptbreaker - https://people.rit.edu/jtb6154/235/project3/
+- Color-By-Number - https://people.rit.edu/mab7367/235/project3/
+- Dungeon Decent - https://people.rit.edu/txa7348/235/project1/project.html
+- Spleeper - https://people.rit.edu/daj6462/235/project1/project
+- Idle Arcana - https://people.rit.edu/kct2548/235/idle_arcana/
+- Cube Sliders! - https://people.rit.edu/prh9765/235/project3/game.html
+- Comet Chasers - https://people.rit.edu/jcw2298/235/comet_chasers/project.html
+- Doodle Defense - https://people.rit.edu/ead1758/235/project1/project.html
+- Fallen Angel - https://people.rit.edu/rw7363/235/project3/game.html
+- Blackjack - https://people.rit.edu/cel1369/235/project3/
+- Block Pusher - https://people.rit.edu/fbm5733/235/project1/project.html
+- Haunted Holdup - https://people.rit.edu/bwb2109/235/project1/project.html
+- Wormhole Wandering - https://people.rit.edu/spg1627/235/project3/project.html 
+- Farming Clicker - https://people.rit.edu/jeh4253/235/project3/game/index.html
+- Juggle Fever - https://people.rit.edu/mes3585/235/project3/project.html
+- Meat Clicker - https://people.rit.edu/bil1616/235/project1/project.html
+- Gobblet - https://people.rit.edu/sdl1585/235/Project3/project.html
+- Squirmle: The Game - https://people.rit.edu/nmm3037/235/project1/project.html
+- Crazy Shapes - https://people.rit.edu/sz5100/235/GameProposalSite/Game.html
+- Tether Space - https://people.rit.edu/kjl8898/235/project1/project.html
+- Bermuda Treasure - https://people.rit.edu/kiz8980/235/project3/project.html
+- Nascency: Battle of the Alcemists - https://people.rit.edu/cre1467/235/project1/game.html
 
 #### Previous DOM Game:   
 - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
