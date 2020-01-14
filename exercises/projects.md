@@ -6,9 +6,51 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Check out the links below and visit at least one project in each category.
 
 
+### Portfolios (Starting for Project 1)
 
+#### Fall 2019 Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+- https://people.rit.edu/acm1551/235/portfolio/
+- https://people.rit.edu/txa7348/235/portfolio/
+- https://people.rit.edu/sd5936/235/professionalProjects.html
+- https://people.rit.edu/rdt7867/235/portfolio/
+- https://people.rit.edu/kle4382/235/portfolio/
+- https://people.rit.edu/cre1467/235/portfolio/
+- https://people.rit.edu/cjm8652/235/portfolio/
+- https://people.rit.edu/ald1289/235/portfolio/
+- https://people.rit.edu/dls7470/235/portfolio/
+- http://lightling.xyz/
+- https://people.rit.edu/wsb6157/235/portfolio/
+- https://people.rit.edu/ks3678/235/Portfolio/
+- https://people.rit.edu/nzl6723/235/portfolio/
+- https://people.rit.edu/nkz4713/235/portfolio/
+- https://people.rit.edu/tcd2738/235/portfolio/
+- https://people.rit.edu/vae3742/235/portfolio/
+- https://people.rit.edu/zmb1362/235/portfolio/
 
-### Project 2s
+#### Previous Demo Portfolios
+- https://www.katiepustolski.com/
+- http://brianemling.com/
+- https://dougwatro.com/
+- http://barringtoncampbell.com/
+- https://people.rit.edu/ltd3086/230/portfolio/
+- https://people.rit.edu/ajr6974/230/portfolio/
+- https://people.rit.edu/ncs2738/230/portfolio/
+- https://people.rit.edu/jcs1738/230/portfolio/
+- https://people.rit.edu/axg9168/230/portfolio/
+- https://people.rit.edu/rcm4155/230/portfolio/
+- https://people.rit.edu/mxb9517/portfolio/
+- https://people.rit.edu/mac9406/portfolio/
+- https://people.rit.edu/ctb4332/portfolio/
+- https://people.rit.edu/sxf5282/portfolio/
+- https://people.rit.edu/lpn4937/portfolio/
+- https://people.rit.edu/jds7523/portfolio/
+- https://people.rit.edu/drs4149/portfolio/
+- https://people.rit.edu/wjb5377/portfolio/
+- https://people.rit.edu/swa4861/portfolio/
+
+### Project 2s 
+
+#### Fall 2019 Project 2s
 - https://people.rit.edu/afb3535/235/Project2/
 - https://people.rit.edu/mab7367/235/project2/
 - https://people.rit.edu/txa7348/235/project2/
@@ -23,6 +65,8 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - https://people.rit.edu/nzl6723/235/project2/gif-finder.html
 - https://people.rit.edu/daj6462/235/project2/
 - https://people.rit.edu/kct2548/235/pokemon_card_finder/card-finder.html
+
+#### Previous Project 2s
 - https://people.rit.edu/yl5209/230/project2/
 - https://people.rit.edu/ajr6974/230/project2/
 - https://people.rit.edu/rls2819/230/project2/index.html
@@ -32,9 +76,35 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - https://people.rit.edu/iod6239/230/project2/
 
 
-### Project 1s + Project 3s (ignore project numbers in the URLs)
+### Project 3s (ignore project numbers in the URLs -- it has had different numbers in the past)
 
-#### DOM Game (Project 3):   
+#### Fall 2019 Games (mixed -- some DOM, some PixiJS)
+- https://people.rit.edu/rdt7867/235/project3/
+- https://people.rit.edu/afb3535/235/Project1/pages/project.html
+- https://people.rit.edu/jtb6154/235/project3/
+- https://people.rit.edu/mab7367/235/project3/
+- https://people.rit.edu/txa7348/235/project1/project.html
+- https://people.rit.edu/daj6462/235/project1/project
+- https://people.rit.edu/kct2548/235/idle_arcana/
+- https://people.rit.edu/prh9765/235/project3/game.html
+- https://people.rit.edu/jcw2298/235/comet_chasers/project.html
+- https://people.rit.edu/ead1758/235/project1/project.html
+- https://people.rit.edu/rw7363/235/project3/game.html
+- https://people.rit.edu/cel1369/235/project3/
+- https://people.rit.edu/fbm5733/235/project1/project.html
+- https://people.rit.edu/bwb2109/235/project1/project.html
+- https://people.rit.edu/spg1627/235/project3/project.html 
+- https://people.rit.edu/jeh4253/235/project3/game/index.html
+- https://people.rit.edu/mes3585/235/project3/project.html
+- https://people.rit.edu/bil1616/235/project1/project.html
+- https://people.rit.edu/sdl1585/235/Project3/project.html
+- https://people.rit.edu/nmm3037/235/project1/project.html
+- https://people.rit.edu/sz5100/235/GameProposalSite/Game.html
+- https://people.rit.edu/kjl8898/235/project1/project.html
+- https://people.rit.edu/kiz8980/235/project3/project.html
+- https://people.rit.edu/cre1467/235/project1/game.html
+
+#### Previous DOM Game:   
 - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
 - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
 - Checkers - https://people.rit.edu/djs5435/230/project2/
@@ -48,7 +118,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
 - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
 
-#### PixiJS Sprite Game (Project 3):
+#### Preview PixiJS Sprite Game:
 - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
 - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
 - Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
@@ -72,26 +142,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Astrodrift - https://people.rit.edu/sae9257/230/project1/index.html
 - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
 
-### Portfolios
-- https://www.katiepustolski.com/
-- http://brianemling.com/
-- https://dougwatro.com/
-- http://barringtoncampbell.com/
-- https://people.rit.edu/ltd3086/230/portfolio/
-- https://people.rit.edu/ajr6974/230/portfolio/
-- https://people.rit.edu/ncs2738/230/portfolio/
-- https://people.rit.edu/jcs1738/230/portfolio/
-- https://people.rit.edu/axg9168/230/portfolio/
-- https://people.rit.edu/rcm4155/230/portfolio/
-- https://people.rit.edu/mxb9517/portfolio/
-- https://people.rit.edu/mac9406/portfolio/
-- https://people.rit.edu/ctb4332/portfolio/
-- https://people.rit.edu/sxf5282/portfolio/
-- https://people.rit.edu/lpn4937/portfolio/
-- https://people.rit.edu/jds7523/portfolio/
-- https://people.rit.edu/drs4149/portfolio/
-- https://people.rit.edu/wjb5377/portfolio/
-- https://people.rit.edu/swa4861/portfolio/
+
 
 
 
