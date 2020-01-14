@@ -113,7 +113,6 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
 - Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
 - Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
-- Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
 - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
 - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
 
