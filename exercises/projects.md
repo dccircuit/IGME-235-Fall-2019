@@ -101,7 +101,7 @@ On your own, begin to explore the sample projects below. Keep in mind that in ma
 - Crazy Shapes - https://people.rit.edu/sz5100/235/GameProposalSite/Game.html
 - Tether Space - https://people.rit.edu/kjl8898/235/project1/project.html
 - Bermuda Treasure - https://people.rit.edu/kiz8980/235/project3/project.html
-- Nascency: Battle of the Alcemists - https://people.rit.edu/cre1467/235/project1/game.html
+- Nascency: Battle of the Alchemists - https://people.rit.edu/cre1467/235/project1/game.html
 
 #### Previous DOM Game:   
 - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
